@@ -1,4 +1,4 @@
 baseURL = 'http://rafliard.xyz'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-themes = 'loveit'
+theme = 'loveit'
