@@ -1,4 +1,0 @@
-baseURL = 'http://rafliard.xyz'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'loveit'

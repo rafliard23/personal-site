@@ -4,9 +4,10 @@ date: 2023-08-14T00:28:35+07:00
 draft: false
 ---
 
-### Here's my contact
+Untuk informasi mengenai penulis, bisa kontak melalui
 
-AAAA
-BBBB
-CCCC
+email: mra53150@gmail.com
 
+atau untuk berkaitan dengan blog, bisa melalui
+
+email: rafli@rafliard.xyz

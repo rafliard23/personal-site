@@ -1,0 +1,23 @@
+# config/_default/languages.en.toml
+
+language = "en"
+languageName = "English"
+weight = 2
+title = "Rafli Ardiansyah"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "Monday, 2 January 2006, 15:04"
+description = "Personal site created and maintained by Muhammad Rafli Ardiansyah"
+
+[author]
+name = "Muhammad Rafli Ardiansyah"
+image = "img/author.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+    { email = "mailto:hello@your_domain.com" },
+    
+]

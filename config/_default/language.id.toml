@@ -1,0 +1,24 @@
+# config/_default/languages.id.toml
+
+language = "id"
+languageName = "Indonesia"
+weight = 1
+title = "Rafli Ardiansyah"
+
+[params]
+displayName = "ID"
+isoCode = "id"
+rtl = false
+dateFormat = "Monday, 2 January 2006, 15:04"
+description = "Situs pribadi yang dibuat dan dikelola oleh Muhammad Rafli Ardiansyah, sebagai penyaluran informasi dan penuangan ide"
+
+[author]
+name = "Muhammad Rafli Ardiansyah"
+image = "img/author.png"
+headline = ""
+bio = "Mechatronics Engineer"
+links = [
+    { email = "mailto:hello@your_domain.com" },
+    { github = "https://github.com/username" },
+    { instagram = "https://instagram.com/username" }
+]

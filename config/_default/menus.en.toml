@@ -1,0 +1,21 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "Post"
+  pageRef = "/posts"
+  weight = 1
+
+[[main]]
+  name = "Project"
+  pageRef = "/projects/"
+  weight = 2
+
+[[main]]
+  name = "About"
+  pageRef = "/about/"
+  weight = 3
+
+  [[main]]
+  name = "Contact"
+  pageRef = "/contact/"
+  weight = 4

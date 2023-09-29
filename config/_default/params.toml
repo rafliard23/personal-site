@@ -1,0 +1,87 @@
+# Global params
+# config/_default/languages.en.toml
+
+colorScheme = "fire"
+defaultAppearance = "dark"
+defaultBackgroundImage = "img/home-img.jpg"
+autoSwitchAppearance = true
+enableSearch = false
+enableCodeCopy = true
+paginate = 5
+summaryLength = 5
+# mainSections = "" // TO DO
+disableImageZoom = false
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+# logo = "logos/primary-logos.png"
+# secondaryLogo =  "logos/secondary-logos.png"
+
+[header]
+  layout = "fixed"
+
+
+[footer]
+  showMenu = false
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "custom"
+  # homepageImage = "img/home-img.jpg"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = false
+  showMoreLinkDest = ""
+  cardView = false
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = false
+
+[article]
+  showDate = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = true
+  showAuthor = true
+  showHero = true
+  heroStyle =  "background"
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = false
+  editURL = ""
+  editAppendPath = true
+  seriesOpened = false
+  showHeadingAnchors = true
+  showPagination = false
+  invertPagination = false
+  showReadingTime = false
+  showTableOfContents = true
+  showRelatedContent = false
+  relatedContentLimit = 3
+  showTaxonomies = true
+  # sharingLinks
+
+[list]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = false # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
+  showBreadcrumbs = false
+  showSummary = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  showCards = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false
+  constrainItemsWidth = false
+
+
+
