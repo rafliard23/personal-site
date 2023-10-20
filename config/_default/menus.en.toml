@@ -7,15 +7,15 @@
 
 [[main]]
   name = "Project"
-  pageRef = "/projects/"
+  pageRef = "/projects"
   weight = 2
 
 [[main]]
   name = "About"
-  pageRef = "/about/"
+  pageRef = "/about"
   weight = 3
 
   [[main]]
   name = "Contact"
-  pageRef = "/contact/"
+  pageRef = "/contact"
   weight = 4

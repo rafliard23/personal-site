@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rafli Ardiansyah</title>
+    <link>rafliard.xyz/posts/</link>
+    <description>Recent content in Posts on Rafli Ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>© 2023 Muhammad Rafli Ardiansyah</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 00:06:58 +0700</lastBuildDate><atom:link href="rafliard.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>rafliard.xyz/posts/hello_world/</link>
+      <pubDate>Tue, 10 Oct 2023 00:06:58 +0700</pubDate>
+      
+      <guid>rafliard.xyz/posts/hello_world/</guid>
+      <description>Halo👋
+Selamat datang ke postingan pertama dari blog ini seusai migrasi dari Wordpress. Patut bersyukur saya telah menyelesaikan migrasi konten yang diperlukan agar situs ini berjalan.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

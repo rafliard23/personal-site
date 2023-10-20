@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanics on Rafli Ardiansyah</title>
+    <link>rafliard.xyz/tags/mechanics/</link>
+    <description>Recent content in Mechanics on Rafli Ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>© 2023 Muhammad Rafli Ardiansyah</copyright>
+    <lastBuildDate>Sat, 28 Jan 2023 12:40:11 +0700</lastBuildDate><atom:link href="rafliard.xyz/tags/mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laptop Cooler</title>
+      <link>rafliard.xyz/projects/laptop_cooler/</link>
+      <pubDate>Sat, 28 Jan 2023 12:40:11 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/laptop_cooler/</guid>
+      <description>Jika kita ingin memaksimalkan performa dari laptop, hal yang perlu diperhatikan untuk mencapai hasil yang optimal adalah mengimbangi pendinginan dari sistem laptop yang kita gunakan.</description>
+      
+    </item>
+    
+    <item>
+      <title>Macropad RFR16E</title>
+      <link>rafliard.xyz/projects/macropad_rfr16e/</link>
+      <pubDate>Sun, 12 Dec 2021 09:52:11 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/macropad_rfr16e/</guid>
+      <description>Bagi kalian yang memiliki hobi Keyboard tentunya kalian mengenal Macropad. Macropad adalah sebuah keyboard yang memiliki layout umumnya lebih kecil dibandingkan dengan keyboard fungsional yang digunakan untuk mengetik dan seringkali digunakan sebagai tombol tambahan yang dapat diprogram.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

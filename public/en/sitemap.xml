@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/en/posts/hello_world/</loc>
+            <lastmod>2023-10-10T00:06:58+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="id"
+              href="rafliard.xyz/posts/hello_world/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="rafliard.xyz/en/posts/hello_world/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/en/posts/</loc>
+            <lastmod>2023-10-10T00:06:58+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="id"
+              href="rafliard.xyz/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="rafliard.xyz/en/posts/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/en/</loc>
+            <lastmod>2023-09-02T14:58:15+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="id"
+              href="rafliard.xyz/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="rafliard.xyz/en/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>

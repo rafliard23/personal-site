@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafli Ardiansyah</title>
+    <link>rafliard.xyz/</link>
+    <description>Recent content on Rafli Ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>© 2023 Muhammad Rafli Ardiansyah</copyright>
+    <lastBuildDate>Sat, 02 Sep 2023 14:58:15 +0700</lastBuildDate><atom:link href="rafliard.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>rafliard.xyz/posts/hello_world/</link>
+      <pubDate>Tue, 10 Oct 2023 00:06:58 +0700</pubDate>
+      
+      <guid>rafliard.xyz/posts/hello_world/</guid>
+      <description>Halo👋
+Selamat datang ke postingan pertama dari blog ini seusai migrasi dari Wordpress. Patut bersyukur saya telah menyelesaikan migrasi konten yang diperlukan agar situs ini berjalan.</description>
+      
+    </item>
+    
+    <item>
+      <title>Informasi Kontak</title>
+      <link>rafliard.xyz/contact/</link>
+      <pubDate>Mon, 14 Aug 2023 00:28:35 +0700</pubDate>
+      
+      <guid>rafliard.xyz/contact/</guid>
+      <description>Untuk informasi mengenai penulis, bisa kontak melalui
+E-Mail Google atau untuk berkaitan dengan blog, bisa melalui</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>rafliard.xyz/about/</link>
+      <pubDate>Mon, 14 Aug 2023 00:12:46 +0700</pubDate>
+      
+      <guid>rafliard.xyz/about/</guid>
+      <description>Situs ini merupakan salah satu perwujudan fasilitas penuangan ide yang saya miliki. Menulis menjadi salah satu cara saya untuk mengarsipkan ide-ide yang saya miliki dan membagikannya kepada dunia, serta meluapkan opini bagi sebagian orang yang mencerna informasi sebagai bahan diskusi untuk mereka sendiri.</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>rafliard.xyz/about_long/</link>
+      <pubDate>Mon, 14 Aug 2023 00:12:46 +0700</pubDate>
+      
+      <guid>rafliard.xyz/about_long/</guid>
+      <description>Situs ini merupakan salah satu perwujudan fasilitas penuangan ide yang saya miliki. Menulis menjadi salah satu cara saya untuk mengarsipkan ide-ide yang saya miliki dan membagikannya kepada dunia, serta meluapkan opini bagi sebagian orang yang mencerna informasi sebagai bahan diskusi untuk mereka sendiri.</description>
+      
+    </item>
+    
+    <item>
+      <title>Laptop Cooler</title>
+      <link>rafliard.xyz/projects/laptop_cooler/</link>
+      <pubDate>Sat, 28 Jan 2023 12:40:11 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/laptop_cooler/</guid>
+      <description>Jika kita ingin memaksimalkan performa dari laptop, hal yang perlu diperhatikan untuk mencapai hasil yang optimal adalah mengimbangi pendinginan dari sistem laptop yang kita gunakan.</description>
+      
+    </item>
+    
+    <item>
+      <title>Automatic Weighing Controller</title>
+      <link>rafliard.xyz/projects/penakartepungtulang/</link>
+      <pubDate>Sun, 10 Apr 2022 16:04:46 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/penakartepungtulang/</guid>
+      <description>Perkembang teknologi di skala Global membawa dampak terhadap industri di segala sektor, agar tidak tertinggal dan untuk meningkatkan produktivitas Industri harus menyesuaikan dengan zaman untuk mencapai efisiensi yang lebih baik.</description>
+      
+    </item>
+    
+    <item>
+      <title>EEPIS Versatile Cargo Aeroplane</title>
+      <link>rafliard.xyz/projects/evaro/</link>
+      <pubDate>Fri, 31 Dec 2021 21:57:24 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/evaro/</guid>
+      <description>Proyek ini saya lakukan dulu ketika saya mengikuti kegiatan kemahasiswaan sewaktu kuliah, EEPIS Versatile Cargo Aeroplane (EVARO) merupakan pengembangan pesawat UAV yang dibuat pada tahun 2021 oleh tim EFRISA Subdivisi Airframe Innovation.</description>
+      
+    </item>
+    
+    <item>
+      <title>Macropad RFR16E</title>
+      <link>rafliard.xyz/projects/macropad_rfr16e/</link>
+      <pubDate>Sun, 12 Dec 2021 09:52:11 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/macropad_rfr16e/</guid>
+      <description>Bagi kalian yang memiliki hobi Keyboard tentunya kalian mengenal Macropad. Macropad adalah sebuah keyboard yang memiliki layout umumnya lebih kecil dibandingkan dengan keyboard fungsional yang digunakan untuk mengetik dan seringkali digunakan sebagai tombol tambahan yang dapat diprogram.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

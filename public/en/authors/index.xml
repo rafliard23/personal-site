@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Rafli Ardiansyah</title>
+    <link>rafliard.xyz/en/authors/</link>
+    <description>Recent content in Authors on Rafli Ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Muhammad Rafli Ardiansyah</copyright>
+    <atom:link href="rafliard.xyz/en/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

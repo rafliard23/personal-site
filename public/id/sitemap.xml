@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/posts/hello_world/</loc>
+            <lastmod>2023-10-10T00:06:58+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="rafliard.xyz/en/posts/hello_world/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="id"
+              href="rafliard.xyz/posts/hello_world/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/posts/</loc>
+            <lastmod>2023-10-10T00:06:58+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="rafliard.xyz/en/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="id"
+              href="rafliard.xyz/posts/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/</loc>
+            <lastmod>2023-09-02T14:58:15+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="rafliard.xyz/en/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="id"
+              href="rafliard.xyz/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/contact/</loc>
+            <lastmod>2023-08-14T00:28:35+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/about/</loc>
+            <lastmod>2023-08-14T00:12:46+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/about_long/</loc>
+            <lastmod>2023-08-14T00:12:46+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/projects/laptop_cooler/</loc>
+            <lastmod>2023-01-28T12:40:11+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/projects/</loc>
+            <lastmod>2023-01-28T12:40:11+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/projects/penakartepungtulang/</loc>
+            <lastmod>2022-04-10T16:04:46+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/projects/evaro/</loc>
+            <lastmod>2021-12-31T21:57:24+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>rafliard.xyz/projects/macropad_rfr16e/</loc>
+            <lastmod>2021-12-12T09:52:11+07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>

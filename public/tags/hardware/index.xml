@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Rafli Ardiansyah</title>
+    <link>rafliard.xyz/tags/hardware/</link>
+    <description>Recent content in Hardware on Rafli Ardiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <copyright>© 2023 Muhammad Rafli Ardiansyah</copyright>
+    <lastBuildDate>Fri, 31 Dec 2021 21:57:24 +0700</lastBuildDate><atom:link href="rafliard.xyz/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EEPIS Versatile Cargo Aeroplane</title>
+      <link>rafliard.xyz/projects/evaro/</link>
+      <pubDate>Fri, 31 Dec 2021 21:57:24 +0700</pubDate>
+      
+      <guid>rafliard.xyz/projects/evaro/</guid>
+      <description>Proyek ini saya lakukan dulu ketika saya mengikuti kegiatan kemahasiswaan sewaktu kuliah, EEPIS Versatile Cargo Aeroplane (EVARO) merupakan pengembangan pesawat UAV yang dibuat pada tahun 2021 oleh tim EFRISA Subdivisi Airframe Innovation.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

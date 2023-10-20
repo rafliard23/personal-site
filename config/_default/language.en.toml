@@ -14,10 +14,12 @@ description = "Personal site created and maintained by Muhammad Rafli Ardiansyah
 
 [author]
 name = "Muhammad Rafli Ardiansyah"
-image = "img/author.jpg"
-headline = "A generally awesome human"
-bio = "A little bit about me"
+image = "img/author.png"
+headline = ""
+bio = "Mechatronics Engineer"
 links = [
-    { email = "mailto:hello@your_domain.com" },
-    
+    { email = "mailto:mra53150@gmail.com" },
+    { github = "https://github.com/rafliard23" },
+    { grabcad = "https://grabcad.com/muhammad.rafli.ardiansyah-1" },
+    { instagram = "https://instagram.com/rafli.ard23" }
 ]

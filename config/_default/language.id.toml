@@ -18,7 +18,8 @@ image = "img/author.png"
 headline = ""
 bio = "Mechatronics Engineer"
 links = [
-    { email = "mailto:hello@your_domain.com" },
-    { github = "https://github.com/username" },
-    { instagram = "https://instagram.com/username" }
+    { email = "mailto:mra53150@gmail.com" },
+    { github = "https://github.com/rafliard23" },
+    { grabcad = "https://grabcad.com/muhammad.rafli.ardiansyah-1" },
+    { instagram = "https://instagram.com/rafli.ard23" }
 ]

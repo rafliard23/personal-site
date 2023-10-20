@@ -3,13 +3,13 @@
 
 colorScheme = "fire"
 defaultAppearance = "dark"
-defaultBackgroundImage = "img/home-img.jpg"
+# defaultBackgroundImage = "img/home-img.jpg"
 autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
 paginate = 5
-summaryLength = 5
-# mainSections = "" // TO DO
+
+mainSections = ["posts", "projects"]
 disableImageZoom = false
 
 highlightCurrentMenuArea = true
@@ -32,7 +32,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "custom"
-  # homepageImage = "img/home-img.jpg"
+  homepageImage = "img/home-img.jpg"
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
@@ -46,7 +46,7 @@ smartTOCHideUnfocusedChildren = false
   showViews = false
   showLikes = false
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle =  "background"
   layoutBackgroundBlur = true
@@ -77,7 +77,7 @@ smartTOCHideUnfocusedChildren = false
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = true
+  showCards = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
