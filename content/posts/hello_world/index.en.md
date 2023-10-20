@@ -5,7 +5,7 @@ lastmod:
 tags: [Casual]
 categories: [Posts]
 slug: hello_World
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1Dh6wPqBotR6DCqxFtFBCGXINi1k6QQ7P"
+thumbnailLink: "https://drive.google.com/uc?export=view&id=1G_cFZFc5MYx52V5Q9hdvhv3uu-tukyXE"
 draft: false
 ---
 
