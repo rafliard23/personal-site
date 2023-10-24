@@ -5,7 +5,7 @@
 baseURL = "rafliard.xyz"
 theme = "blowfish"
 defaultContentLanguage = "id"
-summaryLength = 15
+summaryLength = 20
 
 buildFuture = true
 

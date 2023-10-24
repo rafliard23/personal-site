@@ -11,4 +11,4 @@ Untuk informasi mengenai penulis, bisa kontak melalui
 
 atau untuk berkaitan dengan blog, bisa melalui
 
-{{< button href="mailto:rafli@rafliard.xyz" target="_blank" >}} E-Mail Blog {{< /button >}}
+{{< button href="mailto:rafli@rafliard.xyz" target="_blank" >}} E-Mail Pribadi {{< /button >}}

@@ -2,7 +2,7 @@
 title: "Automatic Weighing Controller"
 date: 2022-04-10T16:04:46+07:00
 lastmod:
-tags: [Electrics, Embedded System]
+tags: [Automation, Electrics, Embedded System]
 categories: [Projects]
 slug: PenakarTepungTulang
 thumbnailLink: "https://drive.google.com/uc?export=view&id=1VFEnuClZz7xtp1397IYXS08nnSF1oDW4"

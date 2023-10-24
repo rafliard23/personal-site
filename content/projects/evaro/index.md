@@ -13,16 +13,16 @@ Proyek ini saya lakukan dulu ketika saya mengikuti kegiatan kemahasiswaan sewakt
 
 ## Overview
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=1p78VvCxgIlth4O_7zDgyMOiwCPoS4oDg"
+{{< drive
+    src="1p78VvCxgIlth4O_7zDgyMOiwCPoS4oDg"
     alt="Packaging Kit"
     caption="Salah satu hasil kit yang telah dirakit dengan kotak kemasan"
     >}}
 
 EEPIS Versatile Cargo Aeroplane (EVARO) adalah wahana UAV yang dikembangkan dengan latar belakang sebuah wahana UAV logistik dipergunakan untuk mengangkut barang. Wahana UAV ini merupakan hasil dari perlombaan Kontes Robot Terbang Indonesia (KRTI) yang diselenggarakan pada tahun 2021 secara Online untuk kategori Techno Development sub divisi Airframe Innovation. Pada kategori ini, penjurian dilakukan berdasarkan hasil pengembangan teknologi pada bidang konfigurasi pesawat UAV, sistem wahana UAV, dan hal-hal terkait pengembangan struktur mekanikal pesawat.
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=1JNzmy233x7CVf0seXCRiwbUmM6Og-6Lx"
+{{< drive
+    src="1JNzmy233x7CVf0seXCRiwbUmM6Og-6Lx"
     alt=""
     caption="Salah satu gambar cetak dari plan wahana UAV EVARO"
     >}}
@@ -42,8 +42,8 @@ UAV EVARO memiliki spesifikasi wahana sebagai berikut:
 
 Karena konfigurasi wahana yang membawa konsep Tilt rotor hybrid dipadukan dengan model Skyhunter tail boom tunggal, membuat wahana UAV ini bisa lebih efisien jika dibandingkan dengan basis model Quadplane yang menggunakan empat motor vertikal untuk take off, sedangkan pada konfigurasi yang dikembangkan ini menggunakan total tiga motor dengan satu motor vertikal tetap, dan dua motor tilt yang dapat berubah arah hadap antara menghadap ke atas ketika mode take off VTOL, dan menghadap ke depan ketika mode Cruise.
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=1xB3Yai4x6TlTpaNqNiKNcZwCw5pVI7nK"
+{{< drive
+    src="1xB3Yai4x6TlTpaNqNiKNcZwCw5pVI7nK"
     alt="EVARO Tilt Rotor"
     caption="Penggunaan motor servo pada motor Tilt"
     >}}
@@ -52,8 +52,8 @@ Karena konfigurasi ini memiliki dua tilt motor, penambahan komponen servo diperg
 
 ## Kendali Servo Tilt Rotor
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=1K8TSErkRq71FRdxG9cJ3tOFYz7nwB_Ds"
+{{< drive
+    src="1K8TSErkRq71FRdxG9cJ3tOFYz7nwB_Ds"
     alt="EVARO Tilt Rotor"
     caption="Penggunaan motor servo pada motor Tilt"
     >}}
