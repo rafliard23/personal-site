@@ -36,6 +36,8 @@ Karena penggunaan program kendali proses CNC yang digunakan masih menggunakan Ma
 Setelah selesai penyetelan kalibrasi motor stepper+driver terhadap program Mach3, kemudian dilakukan penyetelan Torch Height Control (THC) dengan membuat kontroler THC sendiri (berbasis Voltage divider dan ADC op-amp). Pembuatan kontrol THC ini menggunakan prinsip kondisi tegangan dari Torch ketika Torch menyala, Torch akan memiliki nilai tegangan threshold ketika tegangan ini melibihi ambang batas, maka Torch akan menempel pada pelat ketika proses pemotongan sheet metal, hal ini terjadi karena nilai tegangan tersebut dihasilkan dari beda potensial tegangan yang terjadi antara ujung Torch dengan sheet metal yang akan dipotong, sehingga perbedaan tegangan ini dapat digunakan sebagai referensi untuk kontrol ketinggian Torch ketika proses cutting sheet metal.
 
 Berikut ini adalah demo dari mesin yang telah dikalibrasi dengan mencoba profil cutting sederhana
-<iframe src="https://drive.google.com/file/d/1O-ML7REfJu4DVBcBIwxg9Xn_motW99qD/preview" width="640" height="360" allow="autoplay"></iframe>
-<br>
-<iframe src="https://drive.google.com/file/d/1V_YkD3pN4nft3TI-xxOdbJmIunbJsdNo/preview" width="640" height="360" allow="autoplay"></iframe>
+
+<iframe class="max-w-prose mb-20" src="https://drive.google.com/file/d/1O-ML7REfJu4DVBcBIwxg9Xn_motW99qD/preview" width="640" height="360" allow="autoplay" allowfullscreen></iframe>
+
+<iframe class="max-w-prose mb-20" src="https://drive.google.com/file/d/1V_YkD3pN4nft3TI-xxOdbJmIunbJsdNo/preview" width="640" height="360" allow="autoplay" allowfullscreen></iframe>
+

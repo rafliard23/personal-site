@@ -30,12 +30,9 @@ Sistem mini PC ini dapat digunakan dalam dua mode, mode pertama yakni pemrosesan
 
 dibawah ini adalah hasil video dari uji coba yang telah kami lakukan. Karena keterbatasan waktu, kami hanya mengujicobakan wahana UAV di areal sekitar kampus.
 
-Uji Statis:
-<iframe src="https://drive.google.com/file/d/1h1-m4DplsvcgpHVSnmM812SnqZ08IKCZ/preview" width="640" height="360" allow="autoplay"></iframe>
-Uji Horizontal:
-<iframe src="https://drive.google.com/file/d/1j09x9fVix6wY8g5hmPhqTY33EhSPujMN/preview" width="640" height="360" allow="autoplay"></iframe>
-Uji Vertikal:
-<iframe src="https://drive.google.com/file/d/1yDpbiVFlFkXGyZKOs61JnQa8b50IFTAy/preview" width="640" height="360" allow="autoplay"></iframe>
+Uji Statis:<iframe src="https://drive.google.com/file/d/1h1-m4DplsvcgpHVSnmM812SnqZ08IKCZ/preview" width="640" height="360" class="max-w-prose mb-20" allow="autoplay" allowfullscreen></iframe>
+Uji Horizontal:<iframe src="https://drive.google.com/file/d/1j09x9fVix6wY8g5hmPhqTY33EhSPujMN/preview" width="640" height="360" class="max-w-prose mb-20" allow="autoplay" allowfullscreen></iframe>
+Uji Vertikal:<iframe src="https://drive.google.com/file/d/1yDpbiVFlFkXGyZKOs61JnQa8b50IFTAy/preview" width="640" height="360" class="max-w-prose mb-20" allow="autoplay" allowfullscreen></iframe>
 
 Berikut ini adalah poster infografik dari hasil tim PKM kami:
 {{< drive
