@@ -12,8 +12,8 @@ draft: false
 Bagi kalian yang memiliki hobi Keyboard tentunya kalian mengenal Macropad. Macropad adalah sebuah keyboard yang memiliki layout umumnya lebih kecil dibandingkan dengan keyboard fungsional yang digunakan untuk mengetik dan seringkali digunakan sebagai tombol tambahan yang dapat diprogram. Jika kita jeli beberapa perangkat alat bantu yang dijual secara komersil sebenarnya hanyalah sebuah Macropad yang memiliki fungsi yang pakem. Contoh Stream Deck yang digunakan streamer, CAD Mouse; mouse yang digunakan dengan fungsi tambahan yang dapat digunakan pada software CAD.
 
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=17KzrBzUDcvwal3V8YMciNHKxFQOTufLp"
+{{< drive
+    src="17KzrBzUDcvwal3V8YMciNHKxFQOTufLp"
     alt="Macropad Adafruit"
     caption="DIY kit Macropad buatan [Adafruit](https://learn.adafruit.com/adafruit-macropad-rp2040/featured_products)"
     >}}
@@ -32,8 +32,8 @@ Karena macropad ini juga saya masukkan sebagai tugas dalam perkuliahan, beberapa
 
 Karena pada saat itu saya hanya memiliki board F401 yang tidak digunakan (Board WeAct "BlackPill"), akhirnya saya memutuskan untuk menggunakan basis STM32 dengan seri F401. Pemilihan board ini menghadirkan masalah yang tidak terduga ketika saya memprogram board ini. Singkat cerita, board WeAct ini memiliki bootloader yang "proprietary" dari pihak WeAct, sehingga menutup salah satu metode untuk memprogram firmware macropad ke dalam board kontroler ini.
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=1ONUYwiSR3ikX-HkJnQj1jDUJDvBgcDIy"
+{{< drive
+    src="1ONUYwiSR3ikX-HkJnQj1jDUJDvBgcDIy"
     alt="WeAct F401 Blackpill"
     caption="WeAct \"Blackpill\" F401CCU6. [Sumber](https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0)"
     >}}
@@ -85,8 +85,8 @@ Pada tahapan ini, kita memprogramkan layout, keymap yang ingin kita kehendaki se
 
 Jika kita telah selesai menulis setelan firmware yang diperlukan untuk board, kemudian kita compile dan siap untuk memrogram. Namun tunggu dulu, ingat permasalahan terkait bootloader yang saya singgung sebelumnya? Yep. Jika anda menggunakan board WeAct ketika memasuki mode Bootloader STM32, anda akan disapa dengan Bootloader tambahan dari WeAct.
 
-{{< figure
-    src="https://drive.google.com/uc?export=view&id=1YpZt3gyg6Opwg7_ZVg-ZCw9Lvur9t9d1"
+{{< drive
+    src="1YpZt3gyg6Opwg7_ZVg-ZCw9Lvur9t9d1"
     alt="WeAct Bootloader"
     caption="Sepertinya tidak hanya saya yang menemui masalah ini..."
     >}}

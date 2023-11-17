@@ -9,6 +9,10 @@ thumbnailLink: "https://drive.google.com/uc?export=view&id=1P-DUEc6QyT4zjn734WHl
 draft: false
 ---
 
+{{< drive
+    src="1P-DUEc6QyT4zjn734WHlQbyj8-NFKdlK"
+    >}}
+
 Proyek ini saya lakukan dulu ketika saya mengikuti kegiatan kemahasiswaan sewaktu kuliah, EEPIS Versatile Cargo Aeroplane (EVARO) merupakan pengembangan pesawat UAV yang dibuat pada tahun 2021 oleh tim EFRISA Subdivisi Airframe Innovation. Dalam subdivisi ini, kami berlima dengan rincian tiga orang sebagai kepala penanggung jawab pengembangan, dan dua orang sebagai kru yang membantu pengerjaan. Di sini saya bertugas untuk menghandle bagian hardware kelistrikan dari pesawat UAV, serta juga membantu dalam manufaktur, dan pemeliharaan bagian mekanik dari pesawat.
 
 ## Overview
@@ -61,3 +65,11 @@ Karena konfigurasi ini memiliki dua tilt motor, penambahan komponen servo diperg
 Untuk mode terbang wahana UAV ini memiliki dua mode utama yakni mode VTOL ketika orientasi servo tilt menghadap ke arah atas (B), dan mode Fixed Wing/Cruise ketika orientasi servo tilt menghadap ke arah depan (A). Pergantian mode terbang ini dapat dikontrol melalui Ground Control Station (GCS) ketika terbang maupun pra-terbang. Mode VTOL dipergunakan ketika lepas landas dan mendarat, sedangkan mode Cruise digunakan ketika dilakukan penjelajahan. Pengembangan konfigurasi 3 Tilt motor hybrid ini karena pada tahun sebelumnya menggunakan konfigurasi Quadplane 4 Motor Vertikal + 1 Motor pusher, konfigurasi 3 Tilt motor hybrid ini lebih efisien karena penggunaan motor yang lebih sedikit.
 
 Penggunaan tilt rotor hybrid ini membuat kami harus menggunakan tiga motor dengan spesifikasi yang identik untuk mendapatkan keseimbangan yang tepat serta propeller dengan ukuran yang sama. Ketiga motor yang terpasang pada wahana UAV ini menggunakan motor dengan jenis ukuran 2280 dengan pertimbangan thrust, ukuran, serta biaya. Selain tiga motor yang identik, untuk mengurangi resiko ketidakseimbangan, dipergunakan ESC yang identik juga dengan spesifikasi rating arus 60A.
+
+Untuk informasi lebih lanjut, bisa melihat poster infografik dari hasil riset kami:
+Berikut ini adalah poster infografik dari hasil tim PKM kami:
+{{< drive
+    src="1dA-GPlLea7223MBOK_ViNS8gGHNJzQfD"
+    alt="Poster Riset"
+    caption="Poster Riset KRTI 2021 TDA"
+    >}}

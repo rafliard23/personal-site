@@ -1,0 +1,45 @@
+---
+title: "UAV Amfibi"
+date: 2022-09-28T12:09:05+07:00
+lastmod:
+tags: [Computer Vision]
+categories: [Projects]
+slug:
+thumbnailLink: "https://drive.google.com/uc?export=view&id=1rOvX_RuVM2R1qSpDaD5v4I8O_PY7zH5p"
+draft: false
+---
+
+{{< drive
+    src="1rOvX_RuVM2R1qSpDaD5v4I8O_PY7zH5p"
+    alt="UAV Amfibi"
+    caption="UAV Amfibi"
+    >}}
+
+Penggunaan teknologi video pada wahana UAV pemantau memiliki dampak yang terasa bagi tim SAR, karena dengan bantuan data (rekaman) video, wahana pemantau memiliki data yang lebih banyak jika dibandingkan menyurvei lokasi secara langsung dengan menggunakan kendaraan besar seperti mobil atau helikopter. Pada project ini kami memanfaatkan teknologi computer vision yang dipadu dengan wahana UAV yang telah kami kembangkan dengan beberapa modifikasi agar wahana UAV dapat landing pada permukaan air serta modifikasi airframe.
+
+{{< button href="rafliard.xyz/projects/evaro/" target="_blank" >}} EVARO {{< /button >}}
+{{< article link="/projects/evaro/" >}}
+
+Project ini merupakan perwujudan lolos pendanaan dari aktivitas Program Kreaktivitas Mahasiswa (PKM) 2022 dengan satu tim berisikan empat anggota, pada tim ini, saya bertugas untuk mengimplementasikan Computer Vision pada komputer mini PC (Single board computer Raspberry Pi 3B) untuk mendeteksi korban dari input video kamera yang diletakkan menghadap ke arah bawah lambung pesawat.
+
+Untuk implementasi vision, saya menggunakan basis YoloV3-tiny implementasi darknet. Karena Raspberry Pi 3B secara komputasi tidak mendukung untuk pemrosesan video yang cepat, saya menggunakan basis C++ dan dataset yolov3-tiny dan membatasi input resolusi untuk mode livestream (pemrosesan langsung melalui input video kamera) agar mendapatkan metrik FPS yang mendukung (~5-7 FPS).
+
+{{< github repo="pjreddie/darknet" >}}
+
+Sistem mini PC ini dapat digunakan dalam dua mode, mode pertama yakni pemrosesan video secara online (rekognisi obyek secara langsung), serta pemrosesan video secara offline (rekognisi obyek dilakukan secara terpisah). Untuk operasional disarankan untuk menggunakan mode offline agar penggunaan daya bisa mendapatkan hasil yang lebih baik.
+
+dibawah ini adalah hasil video dari uji coba yang telah kami lakukan. Karena keterbatasan waktu, kami hanya mengujicobakan wahana UAV di areal sekitar kampus.
+
+Uji Statis:
+<iframe src="https://drive.google.com/file/d/1h1-m4DplsvcgpHVSnmM812SnqZ08IKCZ/preview" width="640" height="360" allow="autoplay"></iframe>
+Uji Horizontal:
+<iframe src="https://drive.google.com/file/d/1j09x9fVix6wY8g5hmPhqTY33EhSPujMN/preview" width="640" height="360" allow="autoplay"></iframe>
+Uji Vertikal:
+<iframe src="https://drive.google.com/file/d/1yDpbiVFlFkXGyZKOs61JnQa8b50IFTAy/preview" width="640" height="360" allow="autoplay"></iframe>
+
+Berikut ini adalah poster infografik dari hasil tim PKM kami:
+{{< drive
+    src="1Ed-EDr-dEgQjOaZJsra22mrqNQwC5sbJ"
+    alt="Poster PKM"
+    caption="Poster PKM Infografik"
+    >}}
