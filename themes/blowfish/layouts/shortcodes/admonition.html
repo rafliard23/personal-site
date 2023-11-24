@@ -1,0 +1,8 @@
+<details class="mt-2 mb-2 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5">
+    <summary class="px-4 py-2 rounded-md bg-primary-100 dark:bg-primary-800 text-neutral-800 dark:text-neutral-100">
+        {{ (.Get 0) | markdownify | emojify }}
+    </summary>
+    <div class="py-1 border-solid border-neutral-300 dark:border-neutral-400 ltr:-ml-10 ltr:border-l ltr:pl-5 rtl:-mr-10 rtl:border-r rtl:pr-5">
+        {{ .Inner | markdownify | emojify }}
+    </div>
+</details>
