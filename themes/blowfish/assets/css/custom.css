@@ -1,11 +1,17 @@
 .max-w-fit, .max-w-prose {
     max-width: 100%;
-}
+  }
 
 .max-w-7xl {
-    max-width: 96rem;
+    max-width: 106rem;
   }
 
 .max-w-6xl {
-    max-width: 80rem;
+    max-width: 90rem;
+  }
+
+.prose {
+    font-size: 1.125rem;
+    --tw-prose-counters: rgba(var(--color-neutral-900), 1);
+    --tw-prose-invert-counters: rgba(var(--color-neutral-100), 1);
   }
