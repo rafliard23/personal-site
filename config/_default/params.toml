@@ -62,6 +62,7 @@ smartTOCHideUnfocusedChildren = false
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
+  showWordCount = false
   showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = true
