@@ -9,7 +9,7 @@ thumbnailLink: "https://drive.google.com/uc?export=view&id=1KKjkUn9uEmRaY2h3J3Vl
 draft: false
 ---
 
-Proyek merupakan salah satu proyek ketika saya melakukan Kerja Praktik di CV. Karya Brawijaya. Dalam proyek ini, saya dibantu dengan rekam satu kelompok untuk membuat mesin CNC Plasma cutting menggunakan bahan-bahan yang telah ada di lokasi bengkel workshop pada saat itu. Untuk kebutuhan mekanik (Desain, serta perwujudan benda) telah direalisasikan sehingga untuk pengerjaan kami adalah rewiring komponen, memrogram komponen dengan Mach 3 (pada komputer), serta penyetelan parameter untuk skema kontrol open loop motor servo.
+Proyek merupakan salah satu proyek ketika saya melakukan Kerja Praktik di CV. Karya Brawijaya. Dalam proyek ini, saya dibantu dengan rekan-rekan satu kelompok untuk membuat mesin CNC Plasma cutting menggunakan bahan-bahan yang telah ada di lokasi bengkel workshop pada saat itu. Untuk kebutuhan mekanik (Desain, serta perwujudan benda) telah direalisasikan sehingga untuk pengerjaan kami adalah rewiring komponen, memrogram komponen dengan Mach 3 (pada komputer), serta penyetelan parameter untuk skema kontrol open loop motor servo.
 
 {{< drive
     src="1KKjkUn9uEmRaY2h3J3VlDmqknGlLudtB"
