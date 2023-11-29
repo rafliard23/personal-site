@@ -2,6 +2,7 @@
     max-width: 100%;
   }
 
+
 .max-w-7xl {
     max-width: 106rem;
   }
@@ -9,9 +10,15 @@
 .max-w-6xl {
     max-width: 90rem;
   }
+  
+/*
+.max-w-\[80\%\] {
+    max-width: 80%;
+  }
+*/
 
 .prose {
-    font-size: 1.125rem;
+    font-size: 1.075rem;
     --tw-prose-counters: rgba(var(--color-neutral-900), 1);
     --tw-prose-invert-counters: rgba(var(--color-neutral-100), 1);
   }
