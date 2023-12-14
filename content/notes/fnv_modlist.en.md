@@ -6,8 +6,16 @@ tags: [Gaming, Game Modding]
 thumbnailLink: ""
 robots: "noindex"
 xml: false
-draft: false
+draft: true
 ---
+
+## TO DO
+Add
+Enhanced Camera
+Character Expansion Revised
+FOV Slider
+Fallout 3 Weapon Restoration
+MC Tammer Slimline
 
 If you managed to find this page, then you must be reach this one based one of my shared link. Good.
 
@@ -132,6 +140,34 @@ Download link
 + Install **Main Files - B42 FireMode**
 {{< /admonition >}}
 
+### B42 True Leaning
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/81872/81872-1690608835-1135709224.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
+Add Leaning mechanism to get you on the edge for better combat. Based on my current playthrough, it is not game breaking as the NPCs also can shot you when you leaning.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/81872" target="_blank" >}}
+Download link
+{{< /button >}}
+{{< admonition "Installation">}}
++ Install **Main Files - B42 True Leaning**
+{{< /admonition >}}
+
+### Retrievable Throwables Reforged
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/66461/66461-1690614386-821939435.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
+Let's you retrieve your throwables melee weapon. Configurable and can work in tandem with B42 Quickthrow.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/66461" target="_blank" >}}
+Download link
+{{< /button >}}
+{{< admonition "Installation">}}
++ Install **Main Files - Retrievable Throwables Reforged 2.2**
+{{< /admonition >}}
+
 ### Mojave Express Delivery Work
 {{< gallery >}}
   <img src="https://staticdelivery.nexusmods.com/mods/130/images/77176/77176-1656014894-1864816922.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -172,51 +208,25 @@ Download link
 {{< /button >}}
 {{< admonition "Installation">}}
 + Install **Main Files - More Perks Reimagined**
++ Install **Update Files - More Perks Reimagined**
 {{< /admonition >}}
 
-### Just Vanilla Sprint
-Adds simple sprint. That's all<br>
+### Just Assorted Mods
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/66666/66666-1605545881-1902299479.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
 
-{{< button href="https://www.nexusmods.com/newvegas/mods/66960" target="_blank" >}}
+Add several gameplay Quality of Life mod that merged into single ESP.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/66666" target="_blank" >}}
 Download link
 {{< /button >}}
 {{< admonition "Installation">}}
-+ Install **Main Files - Just Vanilla Sprint**
-{{< /admonition >}}
-
-### Just Sprint Plus
-Addon for the Just Vanilla Sprint, it integrates 360 Movement too, less broken movement tech :D.<br>
-
-{{< button href="https://www.nexusmods.com/newvegas/mods/83797" target="_blank" >}}
-Download link
-{{< /button >}}
-{{< admonition "Installation">}}
-+ Install **Main Files - Just Sprint Plus - Expansion for JAM and JVS**
-{{< /admonition >}}
-
-
-### Just Dynamic Crosshair
-Simple dynamic crosshair for your average shooter.<br>
-
-{{< button href="https://www.nexusmods.com/newvegas/mods/66676" target="_blank" >}}
-Download link
-{{< /button >}}
-{{< admonition "Installation">}}
-+ Install **Main Files - Just Dynamic Crosshair**
-{{< /admonition >}}
-
-### Just Hit Marker
-Simple hit marker. Optional if you want visual cues whether you hit someone or not.<br>
-
-{{< button href="https://www.nexusmods.com/newvegas/mods/66667" target="_blank" >}}
-Download link
-{{< /button >}}
-{{< admonition "Installation">}}
-+ Install **Main Files - Just Hit Marker**
-{{< /admonition >}}
++ Install **Main Files - Just Assorted Mods**
+{{< /admonition >}} 
 
 ### Clean Dynamic Crosshair + Hit Marker
-Reworked textures for two previous mods.<br>
+Reworked textures for Dynamic Crosshair and Hit Marker of Just Assorted Mods.<br>
 
 {{< button href="https://www.nexusmods.com/newvegas/mods/81625" target="_blank" >}}
 Download link
@@ -262,6 +272,16 @@ Download link
 {{< /button >}}
 {{< admonition "Installation">}}
 + Install **Main Files - Weapon Mesh Improvement Mod**
+{{< /admonition >}}
+
+### Essential DLC Enhancements Merged
+Adds various fixes for DLCs merged into single mod<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/73803" target="_blank" >}}
+Download link
+{{< /button >}}
+{{< admonition "Installation">}}
++ Install **Main Files - Essential DLC Enhancements**
 {{< /admonition >}}
 
 ### Explodable Ghost People's Gas Bombs ESPless
@@ -374,8 +394,29 @@ Removes orange tint from the game. Simply why would you need Hollywood filter he
 Download link
 {{< /button >}}
 {{< admonition "Installation">}}
++ Install **Main Files - Clarity**
 + Install **Main Files - Clarity - Dark Nights**
 {{< /admonition >}}
+
+### Character Expansions Revised
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/64862/64862-1548589297-935803149.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/64862/64862-1548592407-1231799775.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
+Overhaul NPCs faces to match humane and actual character portraits from Official Artworks.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/62481" target="_blank" >}}
+Download link
+{{< /button >}}
+{{< admonition "Installation">}}
++ Install **Main Files - Clarity**
++ Install **Main Files - Clarity - Dark Nights**
+{{< /admonition >}}
+
+### Enhanced Camera
+
+### FOV Slider
 
 ---
 
