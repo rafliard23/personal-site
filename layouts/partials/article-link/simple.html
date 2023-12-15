@@ -35,7 +35,7 @@
     {{ end }}
     {{- with $.Params.images -}}
     {{- range first 6 . }}
-    <meta property="og:image" content="{{ . | absURL }}" />{{ end -}}
+    {{ end -}}
     {{- else -}}
     {{- $images := $.Resources.ByType "image" -}}
     {{- $featured := $images.GetMatch "src/*feature*" -}}
@@ -55,7 +55,7 @@
       {{ end }}
     {{- else -}}
     {{- with $.Site.Params.images }}
-    <meta property="og:image" content="{{ index . 0 | absURL | $featured }}" />{{ end -}}
+    <meta property="og:image" content="{{ $featured }}" />{{ end -}}
     {{- end -}}
     {{- end -}}
 
