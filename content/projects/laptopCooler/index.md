@@ -112,7 +112,6 @@ Penggunaan Laptop Stand atau Laptop Cooler merupakan salah satu metode untuk men
 
 Meskipun kita dapat membuat Laptop Stand dan Laptop Cooler secara mandiri, hal yang patut diperhatikan disini adalah faktor kepraktisan dari alat. Untuk pengguna biasa yang tidak memiliki waktu untuk merancang dan membuat tentu lebih baik untuk membeli produk jadi, tentu mungkin *agak* mahal namun harga tersebut sudah termasuk dengan nilai praktis dari pengguna yang tidak perlu repot-repot untuk mengatasi masalah. Nilai lebih dari pembuatan alat sendiri adalah faktor kualitas yang dapat kita tentukan sendiri (karena kitalah yang mengatur kualitas itu), dan dapat memungkinkan untuk dilakukan upgrade/peningkatan komponen secara mandiri tanpa perlu merubah keseluruhan alat, seperti contoh saya ingin mengganti kipas Zalman menjadi merk Noctua yang memiliki efisiensi dan Airflow yang lebih tinggi.
 
-Referensi:
-<br>
-https://www.build-electronic-circuits.com/555-pwm-circuit/
+Referensi:<br>
+https://www.build-electronic-circuits.com/555-pwm-circuit/<br>
 https://www.electronics-tutorials.ws/waveforms/555_timer.html

@@ -107,5 +107,5 @@ Laptop Stand or Cooler is one of the method that you can use to extracts more po
 
 Reference(s):
 
-https://www.build-electronic-circuits.com/555-pwm-circuit/
+https://www.build-electronic-circuits.com/555-pwm-circuit/<br>
 https://www.electronics-tutorials.ws/waveforms/555_timer.html

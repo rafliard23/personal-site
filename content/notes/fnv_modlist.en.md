@@ -6,17 +6,8 @@ tags: [Gaming, Game Modding]
 thumbnailLink: ""
 robots: "noindex"
 xml: false
-draft: true
+draft: false
 ---
-
-## TO DO
-Add
-Enhanced Camera
-Character Expansion Revised
-FOV Slider
-Fallout 3 Weapon Restoration
-MC Tammer Slimline
-
 If you managed to find this page, then you must be reach this one based one of my shared link. Good.
 
 Now this modlist are based on my taste which mostly focused on engaging ARPG for New Vegas aiming for not too overpowered character, adding modern shooter element while also not stray away that much from Obsidian intended shooter RPG. This modlist also melee/unarmed build friendly so let's just say it just follow Viva New Vegas guide with some twist from my own taste.
@@ -183,22 +174,21 @@ Download link
 + Install **Main Files - Mojave Express Courier Delivery Work - Primm**
 {{< /admonition >}}
 
-### Enhanced Vision
-Adds functional vision aid (e.g Night Vision, Thermal Vision) for selected headgears.<br>
+### JIP Companions Command and Control
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/50468-1-1409270265.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/50468-2-1402694429.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
 
-{{< button href="https://mod.pub/falloutnv/20-enhanced-vision" target="_blank" >}}
+Add functional addon that lets you control your companion without jumping through dialogue menus and possible limitless companion, Armies of Cazadores companion? sure go ahead.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/50468" target="_blank" >}}
 Download link
 {{< /button >}}
 {{< admonition "Installation">}}
-+ Install **Main Files - **
++ Install **Main Files - JIP Companions Command and Control**
 {{< /admonition >}}
 
-### Immersive Primary Needs
-Adds audio cues for your primary needs. Need hardcore mode enabled.<br>
-
-{{< button href="https://mod.pub/falloutnv/18-immersive-primary-needs" target="_blank" >}}
-Download link
-{{< /button >}}
 
 ### More Perks Reimagined
 This mod adds more perks which adds more RPG-content.<br>
@@ -299,6 +289,16 @@ Download link
 ## Contents
 Most of mods in this section adds more Weaponries and Armours.
 
+### Fallout 3 Weapon Restoration
+Adds Fallout 3 weapons into New Vegas complete with several craftable weapons.
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/40007" target="_blank" >}}
+Download link
+{{< /button >}}
+{{< admonition "Installation">}}
++ Install **Main Files - Fallout 3 Weapons Restoration**
+{{< /admonition >}}
+
 ### MC Tammer's Nif Bashed Mega Weapon Pack
 Adds more weapons while also keep it lore friendly. More arsenal more fun right?<br>
 Read more here: https://fallout.firedrakecreative.com/doku.php?id=weapons<br>
@@ -377,6 +377,16 @@ Download link
 + Install the downloaded Zip file into MO2
 {{< /admonition >}}
 
+### A World of (Less) Pain - Lore Friendly Version
+Adds varieties of location and dungeons for exploration.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/71139" target="_blank" >}}
+Download link
+{{< /button >}}
+{{< admonition "Installation">}}
++ Install **Main Files - AWOP Revised**
+{{< /admonition >}}
+
 ---
 
 ## Visuals
@@ -406,29 +416,56 @@ Download link
 
 Overhaul NPCs faces to match humane and actual character portraits from Official Artworks.<br>
 
-{{< button href="https://www.nexusmods.com/newvegas/mods/62481" target="_blank" >}}
+{{< button href="https://www.nexusmods.com/newvegas/mods/64862" target="_blank" >}}
 Download link
 {{< /button >}}
 {{< admonition "Installation">}}
-+ Install **Main Files - Clarity**
-+ Install **Main Files - Clarity - Dark Nights**
++ Install **Main Files - Character Expansions Revised**
++ Install **Optional Files - Character Expansions Revised - JSU**
++ Install **Optional Files - Character Expansions Revised - UW**
++ Install **Optional Files - Character Expansions Revised - YUP**
 {{< /admonition >}}
 
 ### Enhanced Camera
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/55334-1-1395204865.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/55334-2-1395204865.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />  
+{{< /gallery >}}
+
+Adds back your feet into First Person View. No more floating player!<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/55334" target="_blank" >}}
+Download link
+{{< /button >}}
+
+{{< admonition "Installation">}}
++ Install **Main Files - Enhanced Camera 1.4c**
+{{< /admonition >}}
 
 ### FOV Slider
+{{< gallery >}}
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/55085/55085-1553835622-2108854899.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="https://staticdelivery.nexusmods.com/mods/130/images/55085/55085-1553835716-1252983466.png" class="grid-w50 md:grid-w33 xl:grid-w25" />  
+{{< /gallery >}}
+
+Now you can modify your FOV without accessing Console. Easy to configure and casual friendly.<br>
+
+{{< button href="https://www.nexusmods.com/newvegas/mods/55085" target="_blank" >}}
+Download link
+{{< /button >}}
+
+{{< admonition "Installation">}}
++ Install **Main Files - FOV Slider**
+{{< /admonition >}}
 
 ---
 
-## Bonus Contents
-In this section, mods listed below mostly comprised of several mods that adds Gameplay content that focuses on exploration, these mods may break vanilla lore if you have not familiar with New Vegas environment. I only recommend if you simply want more exploration or not caring immersion of visual environment.
+## Patch Installation
 
-### A World of (Less) Pain - Lore Friendly Version
-Adds varieties of location and dungeons for exploration.<br>
+Since several mods that we add have patches that need to be addressed again, follow these steps to make sure your game properly run.
 
-{{< button href="https://www.nexusmods.com/newvegas/mods/71139" target="_blank" >}}
-Download link
-{{< /button >}}
-{{< admonition "Installation">}}
-+ Install **Main Files - AWOP Revised**
+{{< admonition "Patching">}}
++ Download this [Navmesh Patch](https://drive.google.com/file/d/1KIWUAGO4WnMPJ_M3hRHvICeo-hMTTpH_/view?usp=drive_link)
+
++ Install the patch above using MO2.
 {{< /admonition >}}

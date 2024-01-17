@@ -9,11 +9,9 @@ thumbnailLink: "https://drive.google.com/uc?export=view&id=1rOvX_RuVM2R1qSpDaD5v
 draft: false
 ---
 
-{{< drive
-    src="1rOvX_RuVM2R1qSpDaD5v4I8O_PY7zH5p"
-    alt="UAV Amfibi"
-    caption="UAV Amfibi"
-    >}}
+{{< gallery >}}
+  <img src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21132&authkey=!AGtsPlaGnBxmCvo" class="grid-w50 md:grid-w33 xl:grid-w50"/>
+{{< /gallery >}}
 
 Penggunaan teknologi video pada wahana UAV pemantau memiliki dampak yang terasa bagi tim SAR, karena dengan bantuan data (rekaman) video, wahana pemantau memiliki data yang lebih banyak jika dibandingkan menyurvei lokasi secara langsung dengan menggunakan kendaraan besar seperti mobil atau helikopter. Pada project ini kami memanfaatkan teknologi computer vision yang dipadu dengan wahana UAV yang telah kami kembangkan dengan beberapa modifikasi agar wahana UAV dapat landing pada permukaan air serta modifikasi airframe.
 
@@ -28,6 +26,14 @@ Untuk implementasi vision, saya menggunakan basis YoloV3-tiny implementasi darkn
 
 Sistem mini PC ini dapat digunakan dalam dua mode, mode pertama yakni pemrosesan video secara online (rekognisi obyek secara langsung), serta pemrosesan video secara offline (rekognisi obyek dilakukan secara terpisah). Untuk operasional disarankan untuk menggunakan mode offline agar penggunaan daya bisa mendapatkan hasil yang lebih baik.
 
+Untuk flowchart kerja sistem dari pengindera citra, bisa dilihat pada gambar di bawah ini.
+{{< figure
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21131&authkey=!AFDEcT_98K6fXvk"
+    alt="Diagram Sistem"
+    caption="Flowchart simplifikasi kerja vision pada UAV Amfibi"
+    >}}
+Sistem akan booting dengan mengeksekusi program yang telah diset untuk running secara _headless_, input perangkat kamera sebagai pengambil data dari kamera yang menghadap kamera menunjukkan medan area, selanjutnya input akan di _pre-process_ sebagai input dari model algoritma YOLO, kemudian algoritma YOLO mengekstraksi informasi data yang relevan dengan parameter kelas yang ditentukan (obyek manusia/korban bencana) kemudian menyimpan informasi data tersebut mereferensikan lokasi titik GPS dari kontroler Pixhawk ketika pengambilan citra dilakukan. Hasil deteksi tersimpan pada media penyimpanan SD Card pada Raspberry Pi 3. Proses ini dilakukan berulang hingga kondisi terbang selesai atau suplai baterai sistem mini pc mencapai ambang batas bawah.
+
 dibawah ini adalah hasil video dari uji coba yang telah kami lakukan. Karena keterbatasan waktu, kami hanya mengujicobakan wahana UAV di areal sekitar kampus.
 
 Uji Statis:<iframe src="https://drive.google.com/file/d/1h1-m4DplsvcgpHVSnmM812SnqZ08IKCZ/preview" width="640" height="360" class="max-w-prose mb-20" allow="autoplay" allowfullscreen></iframe>
@@ -36,7 +42,7 @@ Uji Vertikal:<iframe src="https://drive.google.com/file/d/1yDpbiVFlFkXGyZKOs61Jn
 
 Berikut ini adalah poster infografik dari hasil tim PKM kami:
 {{< drive
-    src="1Ed-EDr-dEgQjOaZJsra22mrqNQwC5sbJ"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21134&authkey=%21AMGKr6tV9GDoQ-s&width=800&height=1131"
     alt="Poster PKM"
     caption="Poster PKM Infografik"
     >}}
