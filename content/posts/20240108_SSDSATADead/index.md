@@ -5,7 +5,6 @@ lastmod:
 tags: [Computer]
 categories: [Posts]
 slug: SSDSataDead
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1G96eEATueqGZwSIaZ99nFNOmWU-So5-h"
 draft: false
 ---
 {{< figure

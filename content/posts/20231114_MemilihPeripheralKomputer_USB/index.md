@@ -5,7 +5,6 @@ lastmod:
 tags: [Casual, Computer]
 categories: [Posts]
 slug: memilih_mouse
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1LlakgvOJfdkgVu5MAjkgjUU_nc4jh4uI"
 draft: false
 ---
 

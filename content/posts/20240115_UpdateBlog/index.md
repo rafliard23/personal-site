@@ -5,7 +5,6 @@ lastmod:
 tags: []
 categories: [Posts]
 slug: 20240115_UpdateBlog
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1E8cLOLNZM5m8wX_VytGRz3pG0auz67HF"
 draft: false
 ---
 *Hello there!*
