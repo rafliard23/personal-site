@@ -36,8 +36,8 @@ Obyektif dari plant yang perlu dikontrol adalah sebagai berikut:
 
 Untuk komponen seperti Kontrol Timbangan Digital, Human Machine Interface (HMI), Proximity Sensor, kami menggunakan standar Industri untuk meminimalisir kesalahan komponen, untuk mengontrol relay tegangan tinggi dengan output dari Arduino Uno, kami menggunakan relay 5V 8 Channel. 
 
-{{< drive
-    src="1WAmZSL-V3r2tdTlRV7kpCyk39sxT5Xbd"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbXlJtZPpbnZpBQKlZorlogVsH6SxUPLpzmJR4w9F1yLxSjwCWt9bND-QI3wjbC49auXnIAIDJBHp5CGXI6tJIQBVw0Nsx8hZg=s1600"
     alt="Komponen Automatic Weighing Controller"
     caption="Komponen yang digunakan untuk kendali dari Kontroler"
     >}}
@@ -51,8 +51,8 @@ Untuk komponen seperti Kontrol Timbangan Digital, Human Machine Interface (HMI),
 
 Gambar dibawah ini menunjukkan wiring dari sistem dalam lingkup kontroler.
 
-{{< drive
-    src="1zjAJek4YruqoPBGEsKiDbH4hCt4ksV29"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY2hH5QANJTTaTqq6YqL9DrXCEclQ-EeBve_QBOJgviNnVk48CO4C4QfhCLAQEtITr1sMlyc7D1Z8m4BYsKn30anI3_Au5Drg=s720"
     alt="Komponen Automatic Weighing Controller"
     caption="Wiring sistem lingkup kontroler"
     >}}
@@ -61,8 +61,8 @@ Pada output alarm dari Weighing Controller diberikan resistor Pull Down 10k deng
 
 Untuk diagram kerja dari sistem penakar tepung bisa dilihat pada bagan dibawah ini:
 
-{{< drive
-    src="1ThzRMkr0zxNy6g5LJ4GAf0qLjEYspklk"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZLnBjfEID8u1XOnmEp6yT5-DLlrX_Vya2dIAZkakI5jmMv4gkF85U_UvA0b5m5DuRjnL5twHOGpHHmIt2-7ElZKibKBNWexw=s1600-rw-v1"
     alt="Flowchart Sistem"
     caption="Diagram kerja dari sistem"
     >}}
@@ -78,9 +78,9 @@ Untuk diagram kerja dari sistem penakar tepung bisa dilihat pada bagan dibawah i
 
 Karena penggunaan kontroler Arduino Uno, saya kemudian mendesainkan PCB untuk membuka koneksi-koneksi pin digital dari ATMega328p ini. PCB saya desain dengan konsep “Plug n’ Play” untuk bagian kontroler sehingga ketika ada kerusakan pada kontroler, board Arduino Uno dapat langsung dicabut dari PCB Breakout Board diganti dengan board Arduino Uno yang baru. Untuk menghubungkan sinyal dari luar, saya menggunakan terminal screw untuk memudahkan pemasangan kabel.
 
-{{< drive
-    src="1KHDuowKv9eM48bdkpeD0zeXvVuEf2jHE"
-    alt="Laptop Stand Mediatech"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY5bhlwKjmijDNWrYrK2ApoJC6sJqRiZQb23NHohEXd7gOoYIExfiG3nHhtl8NWM_fwuCh3JXQ1vMOx39voJ_dyqjGPXLoaj_Q=s720"
+    alt=""
     caption="Hasil pengerjaan desain PCB dan Elektrik"
     >}}
 

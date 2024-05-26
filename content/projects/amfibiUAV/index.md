@@ -9,9 +9,9 @@ thumbnailLink: "https://drive.google.com/uc?export=view&id=1rOvX_RuVM2R1qSpDaD5v
 draft: false
 ---
 
-{{< gallery >}}
-  <img src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21132&authkey=!AGtsPlaGnBxmCvo" class="grid-w50 md:grid-w33 xl:grid-w50"/>
-{{< /gallery >}}
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbmyKk_mELv4ZU7ofOPwCAXlTDZU3x9ksKQtCFomo2psOlwmmkwSDbxpl6e722GNgvx5vJURoO0XyYWzMTqT72DILkwpNAtqH8=s1600"
+    >}}
 
 Penggunaan teknologi video pada wahana UAV pemantau memiliki dampak yang terasa bagi tim SAR, karena dengan bantuan data (rekaman) video, wahana pemantau memiliki data yang lebih banyak jika dibandingkan menyurvei lokasi secara langsung dengan menggunakan kendaraan besar seperti mobil atau helikopter. Pada project ini kami memanfaatkan teknologi computer vision yang dipadu dengan wahana UAV yang telah kami kembangkan dengan beberapa modifikasi agar wahana UAV dapat landing pada permukaan air serta modifikasi airframe.
 
@@ -42,7 +42,7 @@ Uji Vertikal:<iframe src="https://drive.google.com/file/d/1yDpbiVFlFkXGyZKOs61Jn
 
 Berikut ini adalah poster infografik dari hasil tim PKM kami:
 {{< drive
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21134&authkey=%21AMGKr6tV9GDoQ-s&width=800&height=1131"
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZPSCW3Vp5Q0WXsYo8z7Sj1L1R5ZVbgp9cVY64dJjJ9KHgWyr6ZNjUqhG8Cm8hlM7JNOH8fI1-KhLlhQfQiWkSnbMNV0yEOnJM=s1600"
     alt="Poster PKM"
     caption="Poster PKM Infografik"
     >}}

@@ -469,3 +469,8 @@ Since several mods that we add have patches that need to be addressed again, fol
 
 + Install the patch above using MO2.
 {{< /admonition >}}
+
+Anniversary Anim Pack
+B42 Optics
+Landscape Texture Improvements
+Iron Sights Aligned

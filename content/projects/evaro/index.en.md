@@ -9,6 +9,10 @@ thumbnailLink: "https://drive.google.com/uc?export=view&id=1P-DUEc6QyT4zjn734WHl
 draft: false
 ---
 
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbAgtO3ULIlCYnrNz-iiCFUNeMhQ6br45mii5db_vtS3ovUIg7PMgAtLoJz5BOFoKUO-Mlr4msd7zfV0XNQa-ff8B6Qhk2GytI=s720"
+    >}}
+
 This project took place when I was a student during my 2nd to 3rd year of college. It was UAV research to develop a Tri motor Hybrid UAV in detail with two of three motors capable tilting vertically and one motor fixed in vertical position, as result the UAV capable to take off and landing Vertically. The name of the developed prototype product is “EEPIS Versatile Cargo Aeroplane” (EVARO). This research development acts as internal research and entry for the National Aeronautical Robot Competition (Kontes Robot Terbang Indonesia abbreviated as KRTI) for the year 2021.
 
 As a team, we are Dirgantara PENS team under EEPIS Flying Robot for Indonesia (EFRISA) flag, EFRISA compete in Techno Development category with sub team that each participates on each sub division competition. In Airframe Innovation sub team, we are five-person team with three being handler for several tasks and two person as a crew helping to complete the tasks. In this team, I am handled electrics and hardwares of UAV, for some occasion I also help mechanical maintenance and manufacture.
@@ -16,16 +20,16 @@ As a team, we are Dirgantara PENS team under EEPIS Flying Robot for Indonesia (E
 
 ## Overview
 
-{{< drive
-    src="1p78VvCxgIlth4O_7zDgyMOiwCPoS4oDg"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbYB75FaZuqD-xbDKP2aFpFgOu1bx7Gf4MwcDTL9bpprsRmIfZH1j-0578OsKHKxybAB3RCFWXYl2ciT7EGsNPIVwJw5OsRn2s=s720"
     alt="Packaging Kit"
     caption="Assembled UAV and its Packaging"
     >}}
 
 EEPIS Versatile Cargo Aeroplane (EVARO) is UAV that developed with logistic background. This UAV submission in the National Aeronautical Robot Competition 2021 on Techno Development category with Airframe Innovation sub division. In this category, scoring was determined by development that conducted on developed UAV for each entrant, for this sub division airplane configuration, system, and airframe component are the main inspected parts for scoring.
 
-{{< drive
-    src="1JNzmy233x7CVf0seXCRiwbUmM6Og-6Lx"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbJKTMkiZlHK0zL-VUHVLeFtWGh9CckrpPPzvhjcqRvImaOy5fqmsB8HDnYynf7vcV6Jp8IX8mIgzhncBxNguB1gt0Uoa9IGbs=s720"
     alt=""
     caption="A Blueprint of EVARO UAV"
     >}}
@@ -45,8 +49,8 @@ Specification detail of UAV EVARO:
 
 Aside of usual UAV electrical hardwares, this development add a "Tilt rotor" which mount a motor into a servo motor arm so the motor orientation can be controlled in order to achieve hybrid configuration (Fixed Wing Aircraft and VTOL plane). During VTOL stage, all three motors used to propel the UAV into higher altitude, and as the UAV achieve enough altitude to transition into Cruise mode (Fixed Wing aircraft), the tilt rotor will rotates from facing upward to face forward to act as twin motor UAV with the fixed vertical motor shutdown during Cruise mode to save more energy during flight. Compared to Quad Plane configuration, this configuration save better energy as the motor count lower and most of flight going to have maximum of two motor turned on.
 
-{{< drive
-    src="1xB3Yai4x6TlTpaNqNiKNcZwCw5pVI7nK"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZiKMEafSfdqUxnm77SNHivtDfz6iOiZe_sfUSNqg5VwaQNIHF_lc4dAwmVjq7io2tbRWxJ7K_hacg719BazqOrSUqgvbamPFg=s720"
     alt="EVARO Tilt Rotor"
     caption="Utilization of Servo motor for Tilt rotor"
     >}}
@@ -55,8 +59,8 @@ To achieve this hybrid configuration, we use Gearboxed Servo in order to control
 
 ## Tilt Rotor Servo Drive
 
-{{< drive
-    src="1K8TSErkRq71FRdxG9cJ3tOFYz7nwB_Ds"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKwXz4qMX0R3pZleZmeKVfmS5mQvvP-8DTO1IVS3n-p6Q9_Ur121SbY6kY-g4t6Y1OefUhVVTSqwvFT9qcvpJxvD3EFjMdJ4k=s720"
     alt="EVARO Tilt Rotor"
     caption="Servo motor for tilting the motor"
     >}}

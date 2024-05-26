@@ -9,24 +9,24 @@ thumbnailLink: "https://drive.google.com/uc?export=view&id=1P-DUEc6QyT4zjn734WHl
 draft: false
 ---
 
-{{< drive
-    src="1P-DUEc6QyT4zjn734WHlQbyj8-NFKdlK"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbAgtO3ULIlCYnrNz-iiCFUNeMhQ6br45mii5db_vtS3ovUIg7PMgAtLoJz5BOFoKUO-Mlr4msd7zfV0XNQa-ff8B6Qhk2GytI=s720"
     >}}
 
 Proyek ini saya lakukan dulu ketika saya mengikuti kegiatan kemahasiswaan sewaktu kuliah, EEPIS Versatile Cargo Aeroplane (EVARO) merupakan pengembangan pesawat UAV yang dibuat pada tahun 2021 oleh tim EFRISA Subdivisi Airframe Innovation. Dalam subdivisi ini, kami berlima dengan rincian tiga orang sebagai kepala penanggung jawab pengembangan, dan dua orang sebagai kru yang membantu pengerjaan. Di sini saya bertugas untuk menghandle bagian hardware kelistrikan dari pesawat UAV, serta juga membantu dalam manufaktur, dan pemeliharaan bagian mekanik dari pesawat.
 
 ## Overview
 
-{{< drive
-    src="1p78VvCxgIlth4O_7zDgyMOiwCPoS4oDg"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbYB75FaZuqD-xbDKP2aFpFgOu1bx7Gf4MwcDTL9bpprsRmIfZH1j-0578OsKHKxybAB3RCFWXYl2ciT7EGsNPIVwJw5OsRn2s=s720"
     alt="Packaging Kit"
     caption="Salah satu hasil kit yang telah dirakit dengan kotak kemasan"
     >}}
 
 EEPIS Versatile Cargo Aeroplane (EVARO) adalah wahana UAV yang dikembangkan dengan latar belakang sebuah wahana UAV logistik dipergunakan untuk mengangkut barang. Wahana UAV ini merupakan hasil dari perlombaan Kontes Robot Terbang Indonesia (KRTI) yang diselenggarakan pada tahun 2021 secara Online untuk kategori Techno Development sub divisi Airframe Innovation. Pada kategori ini, penjurian dilakukan berdasarkan hasil pengembangan teknologi pada bidang konfigurasi pesawat UAV, sistem wahana UAV, dan hal-hal terkait pengembangan struktur mekanikal pesawat.
 
-{{< drive
-    src="1JNzmy233x7CVf0seXCRiwbUmM6Og-6Lx"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbJKTMkiZlHK0zL-VUHVLeFtWGh9CckrpPPzvhjcqRvImaOy5fqmsB8HDnYynf7vcV6Jp8IX8mIgzhncBxNguB1gt0Uoa9IGbs=s720"
     alt=""
     caption="Salah satu gambar cetak dari plan wahana UAV EVARO"
     >}}
@@ -46,8 +46,8 @@ UAV EVARO memiliki spesifikasi wahana sebagai berikut:
 
 Karena konfigurasi wahana yang membawa konsep Tilt rotor hybrid dipadukan dengan model Skyhunter tail boom tunggal, membuat wahana UAV ini bisa lebih efisien jika dibandingkan dengan basis model Quadplane yang menggunakan empat motor vertikal untuk take off, sedangkan pada konfigurasi yang dikembangkan ini menggunakan total tiga motor dengan satu motor vertikal tetap, dan dua motor tilt yang dapat berubah arah hadap antara menghadap ke atas ketika mode take off VTOL, dan menghadap ke depan ketika mode Cruise.
 
-{{< drive
-    src="1xB3Yai4x6TlTpaNqNiKNcZwCw5pVI7nK"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZiKMEafSfdqUxnm77SNHivtDfz6iOiZe_sfUSNqg5VwaQNIHF_lc4dAwmVjq7io2tbRWxJ7K_hacg719BazqOrSUqgvbamPFg=s720"
     alt="EVARO Tilt Rotor"
     caption="Penggunaan motor servo pada motor Tilt"
     >}}
@@ -56,10 +56,10 @@ Karena konfigurasi ini memiliki dua tilt motor, penambahan komponen servo diperg
 
 ## Kendali Servo Tilt Rotor
 
-{{< drive
-    src="1K8TSErkRq71FRdxG9cJ3tOFYz7nwB_Ds"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbKwXz4qMX0R3pZleZmeKVfmS5mQvvP-8DTO1IVS3n-p6Q9_Ur121SbY6kY-g4t6Y1OefUhVVTSqwvFT9qcvpJxvD3EFjMdJ4k=s720"
     alt="EVARO Tilt Rotor"
-    caption="Penggunaan motor servo pada motor Tilt"
+    caption="Mekanisme tilt rotor dengan tampilan Servo"
     >}}
 
 Untuk mode terbang wahana UAV ini memiliki dua mode utama yakni mode VTOL ketika orientasi servo tilt menghadap ke arah atas **(B)**, dan mode Fixed Wing/Cruise ketika orientasi servo tilt menghadap ke arah depan **(A)**. Pergantian mode terbang ini dapat dikontrol melalui Ground Control Station (GCS) ketika terbang maupun pra-terbang. Mode VTOL dipergunakan ketika lepas landas dan mendarat, sedangkan mode Cruise digunakan ketika dilakukan penjelajahan. Pengembangan konfigurasi 3 Tilt motor hybrid ini karena pada tahun sebelumnya menggunakan konfigurasi Quadplane 4 Motor Vertikal + 1 Motor pusher, konfigurasi 3 Tilt motor hybrid ini lebih efisien karena penggunaan motor yang lebih sedikit.
@@ -68,8 +68,8 @@ Penggunaan tilt rotor hybrid ini membuat kami harus menggunakan tiga motor denga
 
 Untuk informasi lebih lanjut, bisa melihat poster infografik dari hasil riset kami:
 Berikut ini adalah poster infografik dari hasil tim PKM kami:
-{{< drive
-    src="1dA-GPlLea7223MBOK_ViNS8gGHNJzQfD"
+{{< figure
+    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY8cNsdShZoFlQoQ16m5PDpMlgXxnhL4BIyoYztGHqcUw4AxmRHUAaibs4eN-2xOjlfsRFcVdJUwtvgRWlcFMHqLv2VGXY4L5Q=s1600"
     alt="Poster Riset"
     caption="Poster Riset KRTI 2021 TDA"
     >}}
