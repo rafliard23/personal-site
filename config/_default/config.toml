@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-baseURL = "rafliard.xyz"
+baseURL = "rafliard.net"
 theme = "blowfish"
 defaultContentLanguage = "id"
 summaryLength = 20
@@ -17,7 +17,6 @@ buildFuture = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
   series = "series"
 
 [sitemap]

@@ -16,6 +16,6 @@
   weight = 3
 
   [[main]]
-  name = "Contact"
-  pageRef = "/contact"
+  name = "Network"
+  url = "http://network.rafliard.net"
   weight = 4

@@ -3,7 +3,7 @@
 language = "en"
 languageName = "English"
 weight = 2
-title = "Rafli Ardiansyah"
+title = "Muhammad Rafli Ardiansyah"
 
 [params]
 displayName = "EN"
@@ -18,7 +18,7 @@ image = "img/author.webp"
 headline = ""
 bio = "Mechatronics Engineer"
 links = [
-    { email = "mailto:mra53150@gmail.com" },
+    { email = "mailto:contact@rafliard.net" },
     { github = "https://github.com/rafliard23" },
     { grabcad = "https://grabcad.com/muhammad.rafli.ardiansyah-1" },
     { instagram = "https://instagram.com/rafli.ard23" }
