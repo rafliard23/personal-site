@@ -1,6 +1,0 @@
-# Custom HTTP header rule
-
-https://rafliard.xyz
-  Access-Control-Allow-Origin: https://drive.google.com
-  Sec-Fetch-Mode: navigate
-  Sec-Fetch-Site: none
