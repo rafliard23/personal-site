@@ -30,7 +30,7 @@ As Jarrod's Tech video suggest that a simple laptop stand should be sufficient t
 ## Laptop Stand
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbdElSh5k9xeWF8ElTYQ7rsVVqOamPGidTKdA52erkigVACIOmJUA4FiJC00-MXlHpKcKxjrH-AeaxDW9MPLVqDzAQD9IHmT-E=s2560"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21198&authkey=%21AI18LFi_8GxKXJY&width=500&height=500"
     alt="Laptop Stand Mediatech"
     caption="One of Laptop Stand model that sold in Indonesia"
     >}}
@@ -40,7 +40,7 @@ Laptop Stand is one of those device that mostly used to "lift" your laptop to pr
 ## Laptop Cooler
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihapmAhUC4Bwa6-vekNlgq4jEfxci74myxa9LUClC4XGtiUes4CKahwUW0NVUy1jajgQaJsj0u_fAjTfV9_4vBEP1LFsi9g5Nw=s2560"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21197&authkey=%21ALGvG8L68t20wDw&width=782&height=430"
     alt="Laptop Cooler Coolermaster"
     caption="Laptop Cooler Notepal X3 from Coolermaster"
     >}}
@@ -62,7 +62,7 @@ Electronics portion, I designed custom PCB to handle the speed control and accep
 I designed the part as simple as it could but also to consider structural strength and practical side. The design should be printable with Ender 3 bed size and bigger. My parts printed using SUNLU PLA filament and as ofOctober 2023, the laptop stand part still strong and usable.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbeP7CHrg4mnDv-XnvBzyG0jYrqkmFI_6l9Ef5Qnl9O_hRbbRiOn5gCcnrp5CPv94pmgZHl_Dj8CWVo75EkTvCIMKJbgK4mB10=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21191&authkey=%21ABbL6n-0wSKf_xs&width=660"
     alt="Desain Laptop Stand DIY"
     caption="Laptop Stand Design"
     >}}
@@ -70,7 +70,7 @@ I designed the part as simple as it could but also to consider structural streng
 To mount fans, we need to add some part using acrylic 2mm/3mm to mount them into Stand part.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb_TgJYJT46niYXLA7kPmMUl2MRCTKORnPQXSR7iDRucwVjp7fQbnZIWOgWavcLGXezxETnKE_li5HsOBGsypBViAx-tWH_CA=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21192&authkey=%21AK7q7swvAFiVNbY&width=660"
     alt="Fan Bracket Fitting"
     caption="Laptop Stand design fitted with 2x120mm Fans"
     >}}
@@ -80,13 +80,13 @@ To mount fans, we need to add some part using acrylic 2mm/3mm to mount them into
 Since I rely on "simple" control and doesn't need fancy microcontroller, I resorted to 555 Timer with good ol' NE555 IC. As we can power them with 12VDC, we don't need DC-DC converter and we can just power it using 12VDC input from barrel jack input. As 3PIN Fan design doesn't have any mean of speed control, we have to control them via V_OUT voltage level control by sending V_OUT in form of PWM output. This PWM Output will regulate voltage output based on our input using Potentiometer of our 555 System. For MOSFET part, I decided to use generic NPN IRFZ44N mosfet as it does the job very well and doesn't seem to overloaded from the task.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZaDzYpOtl8gjRbknkVDvBsAntsVCNeT5v7GWOXOp0z0uxnrwI0hkxMTdGxAyDNEGNC2t9GI1aw945LI4d332Wfj6aBbi8PDg=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21196&authkey=%21ADf9SHlzKGxkZrs&width=660"
     alt="Skematik Rangkaian KiCAD"
     caption="Fan Speed Control Schematics"
     >}}
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaVc_FAUjUy12YCxmwsEtxzHVddo3zCeU1-YTERe4vQDY_MRkfPRezb4OqwMvbP_L4xoff2S5oTk00EZ_zYsjGyHi7abK7DMQ=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21195&authkey=%21ALo5AHwPnk9w4y0&width=660"
     alt="Layout Trace PCB"
     caption="PCB Layout of Speed Controller"
     >}}

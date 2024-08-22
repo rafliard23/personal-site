@@ -13,7 +13,7 @@ Bagi kalian yang memiliki hobi Keyboard tentunya kalian mengenal Macropad. Macro
 
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZzVfEGx1W_ifaDuj_gPEQX_4xy6-9Xu4NyTxnXyWNfMDl-BSYpoNhSaus6N6S0g_3W_ZfDoxdNyF6ApDDdkL5g3sDSvK8g42I=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21184&authkey=%21AJTV91sxJNQqKsc&width=640&height=480"
     alt="Macropad Adafruit"
     caption="DIY kit Macropad buatan [Adafruit](https://learn.adafruit.com/adafruit-macropad-rp2040/featured_products)"
     >}}
@@ -33,7 +33,7 @@ Karena macropad ini juga saya masukkan sebagai tugas dalam perkuliahan, beberapa
 Karena pada saat itu saya hanya memiliki board F401 yang tidak digunakan (Board WeAct "BlackPill"), akhirnya saya memutuskan untuk menggunakan basis STM32 dengan seri F401. Pemilihan board ini menghadirkan masalah yang tidak terduga ketika saya memprogram board ini. Singkat cerita, board WeAct ini memiliki bootloader yang "proprietary" dari pihak WeAct, sehingga menutup salah satu metode untuk memprogram firmware macropad ke dalam board kontroler ini.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaLdma98hFVu3YJaQsbDT7GUPI_TMdIm0cU4ZTvW1rkDN1J31q9Gd_6wrhYqdGP7hz1KkJKlWW1l8haeGCVr6LgS5IozHjf7w=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21186&authkey=%21AGUHliaIdTgNxXg&width=660"
     alt="WeAct F401 Blackpill"
     caption="WeAct \"Blackpill\" F401CCU6. [Sumber](https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0)"
     >}}
@@ -58,7 +58,7 @@ Karena sebagai tugas kuliah, saya mendesainkan board PCB agar tampilan akhir dar
 
 
 {{< figure
-    src="https://golem.hu/pic/article/diodes/1N4148-diodes.jpg"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21185&authkey=%21AKQjwYAvmJfC7RU&width=660"
     alt="Dioda 1N4148"
     caption="Yup, komponen seharga Rp. 100,- ini membuat keyboard mekanikal mu anti ghosting. [Sumber](https://golem.hu/guide/diodes/)"
     >}}
@@ -72,7 +72,7 @@ Untuk informasi selengkapnya mengenai hardware dari macropad ini, bisa melihat r
 ### Pemrograman Firmware Board
 
 {{< figure
-    src="https://qmk.fm/assets/images/social.png"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21189&authkey=%21ALvkwRColdlGXjc&width=480"
     alt="QMK FM"
     caption="QMK Firmware, firmware open source yang seringkali digunakan oleh penggemar keyboard. [Sumber](https://qmk.fm/)"
     >}}
@@ -86,7 +86,7 @@ Pada tahapan ini, kita memprogramkan layout, keymap yang ingin kita kehendaki se
 Jika kita telah selesai menulis setelan firmware yang diperlukan untuk board, kemudian kita compile dan siap untuk memrogram. Namun tunggu dulu, ingat permasalahan terkait bootloader yang saya singgung sebelumnya? Yep. Jika anda menggunakan board WeAct ketika memasuki mode Bootloader STM32, anda akan disapa dengan Bootloader tambahan dari WeAct.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaCanjWkPsZIqzPL1lzRdnV_5QXNsb7PSyKPujSHoBKxfbL4tAOkJ0bvm9p6Wk_QZSJ3frVMaWWXtj3UX4oobd4fl5OcqgViJ8=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21187&authkey=%21AMdtNCIpzNJF-F4&width=1024"
     alt="WeAct Bootloader"
     caption="Sepertinya tidak hanya saya yang menemui masalah ini..."
     >}}

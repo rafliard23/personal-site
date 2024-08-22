@@ -12,7 +12,7 @@ draft: false
 Proyek merupakan salah satu proyek ketika saya melakukan Kerja Praktik di CV. Karya Brawijaya. Dalam proyek ini, saya dibantu dengan rekan-rekan satu kelompok untuk membuat mesin CNC Plasma cutting menggunakan bahan-bahan yang telah ada di lokasi bengkel workshop pada saat itu. Untuk kebutuhan mekanik (Desain, serta perwujudan benda) telah direalisasikan sehingga untuk pengerjaan kami adalah rewiring komponen, memrogram komponen dengan Mach 3 (pada komputer), serta penyetelan parameter untuk skema kontrol open loop motor servo.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihba5HoAXj4OiFpwYBYO5JGPSdZhPkYE9ecIvr0BeR2MoGuqxZceGap94i0S-TcLpgwOoLJuwq2lNJyBqKw62V9Hm2f6rX1ilI0=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21172&authkey=%21AFgGJIQZdM5pxLc&width=660"
     alt="Frame Mesin CNC"
     caption="Rangka Mesin CNC yang akan digunakan."
     >}}
@@ -20,7 +20,7 @@ Proyek merupakan salah satu proyek ketika saya melakukan Kerja Praktik di CV. Ka
 Untuk pengerjaan yang saya lakukan, saya mengecek kelayakan komponen yang akan digunakan, karena "Mesin" CNC ini dibuat dengan alat dan bahan yang ada pada waktu itu, konfigurasi aktuator yang digunakan juga bisa dibilang unik karena motor stepper yang digunakan adalah motor stepper ukuran Nema 17 dengan masing-masing sumbu memiliki dua motor stepper untuk membagi beban.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZzEVukgrMqkRTwh-fFrjoyVZjSUT3quGNLt-WktsDMwy-s3t3W5mQcdoCeBpr1l1h8bJaOEVH2sMLlkl7fbb-WpcbSr06oArw=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21171&authkey=%21AL2sIptTtUFC-5I&width=434&height=270"
     alt="Breakout Board CNC"
     caption="Foto breakout board Mach3."
     >}}
@@ -28,7 +28,7 @@ Untuk pengerjaan yang saya lakukan, saya mengecek kelayakan komponen yang akan d
 Karena penggunaan program kendali proses CNC yang digunakan masih menggunakan Mach3, maka kami memerlukan untuk mencari komputer dengan port Paralel agar mesin CNC bisa dikendalikan langsung oleh komputer. Penggunaan komputer dengan port Paralel ini sangat penting karena kemampuan untuk Torch Height Control (THC) hanya dapat digunakan pada board dengan port Paralel, board CNC Mach3 yang menggunakan interface USB tidak dapat menggunakan fitur ini karena pada program kontroler bawaan board CNC Mach3 USB tidak diimplementasikan untuk Plasma cutting, hanya mampu untuk digunakan sebagai CNC Milling/Laser Cutting.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihburh0_Buy6RtqHVrWHshz_tuUjPZsPMEYueHCg89SF5FINgmr36O-7KjgUaNgzyCsPPaaDDKdzwtHhq7p6ql8wSgXUd6LQnzQ=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21175&authkey=%21AORUO7l5VjJkc9U&width=628&height=480"
     alt="Interface Mach3"
     caption="Tampilan interface program Mach3."
     >}}

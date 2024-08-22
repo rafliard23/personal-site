@@ -12,7 +12,7 @@ draft: false
 For those who into Mechanical Keyboard hobby definitely know a Macropad. Macropad is a keyboard albeit mostly smaller in layout, that have a programmable keys function. These keys can hold a pre-programmed action that can be configured to act for example zooming in or out screen, saving or open specific files on a program, mute a mic, changing screen source for obs and such.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZzVfEGx1W_ifaDuj_gPEQX_4xy6-9Xu4NyTxnXyWNfMDl-BSYpoNhSaus6N6S0g_3W_ZfDoxdNyF6ApDDdkL5g3sDSvK8g42I=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21184&authkey=%21AJTV91sxJNQqKsc&width=640&height=480"
     alt="Macropad Adafruit"
     caption="DIY kit Macropad made by [Adafruit](https://learn.adafruit.com/adafruit-macropad-rp2040/featured_products)"
     >}}
@@ -31,7 +31,7 @@ Due to time constraint added from assignment submission, whatever USB HID capabl
 
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaLdma98hFVu3YJaQsbDT7GUPI_TMdIm0cU4ZTvW1rkDN1J31q9Gd_6wrhYqdGP7hz1KkJKlWW1l8haeGCVr6LgS5IozHjf7w=s720"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21186&authkey=%21AGUHliaIdTgNxXg&width=660"
     alt="WeAct F401 Blackpill"
     caption="WeAct \"Blackpill\" F401CCU6. [Sumber](https://stm32-base.org/boards/STM32F411CEU6-WeAct-Black-Pill-V2.0)"
     >}}
@@ -53,7 +53,7 @@ Due to time constraint added from assignment submission, whatever USB HID capabl
 PCB is a must to make this Macropad looks neater and to reduce messy cable if you're bad at cable management, I made a single layer PCB as I thought it was enough and does so cheap! This board can be configured either 16 Keys or 15 Keys with 1 Encoder (and working switch). Encoder addition helps for some stuff like adjusting volume, zoom level control. Zener diode (or simply you can just use any diodes) is a must to prevent ghosting effect
 
 {{< figure
-    src="https://golem.hu/pic/article/diodes/1N4148-diodes.jpg"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21185&authkey=%21AKQjwYAvmJfC7RU&width=660"
     alt="Dioda 1N4148"
     caption="This a cent component can improve your keyboard by mile! [Sumber](https://golem.hu/guide/diodes/)"
     >}}
@@ -67,7 +67,7 @@ For further information regarding the hardware parts, you can check on this repo
 ### Firmware Programming
 
 {{< figure
-    src="https://qmk.fm/assets/images/social.png"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21189&authkey=%21ALvkwRColdlGXjc&width=480"
     alt="QMK FM"
     caption="QMK firmware. [Sumber](https://qmk.fm/)"
     >}}
@@ -77,7 +77,7 @@ For firmware, we definitely use QMK as it is the most supported open source with
 Remember a mention of trouble on previous section? This WeAct Blackpill board has a proprietary bootloader and if you're going to enter STM32 Bootloader by normal mean, you simply going to be greeted with WeAct bootloader instead of actual STM32 Bootloader. After some hours of searching on answer, you can bypass this proprietary bootloader by jumping some pins to ground. Unfortunately I didn't manage to document this step :/
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaCanjWkPsZIqzPL1lzRdnV_5QXNsb7PSyKPujSHoBKxfbL4tAOkJ0bvm9p6Wk_QZSJ3frVMaWWXtj3UX4oobd4fl5OcqgViJ8=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21187&authkey=%21AMdtNCIpzNJF-F4&width=1024"
     alt="WeAct Bootloader"
     caption="It seems everyone annoyed by this bootloader too..."
     >}}

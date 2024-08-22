@@ -22,7 +22,7 @@ Jika kita berbicara mengenai alat bantu eksternal ada dua opsi yang paling efisi
 ## Laptop Stand
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbdElSh5k9xeWF8ElTYQ7rsVVqOamPGidTKdA52erkigVACIOmJUA4FiJC00-MXlHpKcKxjrH-AeaxDW9MPLVqDzAQD9IHmT-E=s2560"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21198&authkey=%21AI18LFi_8GxKXJY&width=500&height=500"
     alt="Laptop Stand Mediatech"
     caption="Salah satu Laptop Stand yang dijual di pasaran Indonesia"
     >}}
@@ -34,7 +34,7 @@ Secara tidak langsung Laptop Stand juga meningkatkan sirkulasi udara yang masuk 
 ## Laptop Cooler
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihapmAhUC4Bwa6-vekNlgq4jEfxci74myxa9LUClC4XGtiUes4CKahwUW0NVUy1jajgQaJsj0u_fAjTfV9_4vBEP1LFsi9g5Nw=s2560"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21197&authkey=%21ALGvG8L68t20wDw&width=782&height=430"
     alt="Laptop Cooler Coolermaster"
     caption="Laptop Cooler Notepal X3 dari Coolermaster"
     >}}
@@ -52,7 +52,7 @@ Untuk bagian dari elektronik, saya membuat rangkaian pengatur kecepatan kipas be
 Desain mekanik saya buat sesederhana mungkin namun memperhatikan aspek struktural dan praktikal karena saya utamakan agar dapat dicetak menggunakan 3D Printer Ender-3. Proses pencetakan menggunakan filamen PLA, dan hingga saat ini (sejak Februari 2023), kondisi hasil cetak masih kuat dan bagus.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbeP7CHrg4mnDv-XnvBzyG0jYrqkmFI_6l9Ef5Qnl9O_hRbbRiOn5gCcnrp5CPv94pmgZHl_Dj8CWVo75EkTvCIMKJbgK4mB10=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21191&authkey=%21ABbL6n-0wSKf_xs&width=660"
     alt="Desain Laptop Stand DIY"
     caption="Desain Laptop Stand"
     >}}
@@ -60,7 +60,7 @@ Desain mekanik saya buat sesederhana mungkin namun memperhatikan aspek struktura
 Untuk pemasangan kipas, ditambahkan part dari akrilik untuk tempat pemasangan kipas.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb_TgJYJT46niYXLA7kPmMUl2MRCTKORnPQXSR7iDRucwVjp7fQbnZIWOgWavcLGXezxETnKE_li5HsOBGsypBViAx-tWH_CA=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21192&authkey=%21AK7q7swvAFiVNbY&width=660"
     alt="Fan Bracket Fitting"
     caption="Desain Laptop Stand dengan pemasangan kipas 2x120mm"
     >}}
@@ -70,13 +70,13 @@ Untuk pemasangan kipas, ditambahkan part dari akrilik untuk tempat pemasangan ki
 Rangkaian berbasis Timer 555 yang memberikan output PWM kepada gate Mosfet sebagai kontrol kecepatan, karena saya menggunakan kipas 3PIN JST yang pin 3 nya adalah output "Tachometer" dari unit kipas, maka pengontrolan kecepatan langsung saya lakukan melalui input power dari kipas, sehingga daya yang diberikan kekipas berupa variabel bukan konstan 12VDC. Keputusan penggunaan timer 555 karena fungsinya yang simpel, cukup untuk keperluan pengontrolan kecepatan, serta murah dan banyak beredar dipasaran Indonesia. Untuk detail mengenai komponen yang digunakan, bisa dicek melalui tautan yang dilampirkan dibawah halaman.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZaDzYpOtl8gjRbknkVDvBsAntsVCNeT5v7GWOXOp0z0uxnrwI0hkxMTdGxAyDNEGNC2t9GI1aw945LI4d332Wfj6aBbi8PDg=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21196&authkey=%21ADf9SHlzKGxkZrs&width=660"
     alt="Skematik Rangkaian KiCAD"
     caption="Skematik rangkaian kontrol kecepatan kipas"
     >}}
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaVc_FAUjUy12YCxmwsEtxzHVddo3zCeU1-YTERe4vQDY_MRkfPRezb4OqwMvbP_L4xoff2S5oTk00EZ_zYsjGyHi7abK7DMQ=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21195&authkey=%21ALo5AHwPnk9w4y0&width=660"
     alt="Layout Trace PCB"
     caption="Layout PCB kontroler kipas"
     >}}
@@ -88,7 +88,7 @@ Untuk informasi lebih lanjut dari PCB yang saya buat, bisa mengunjungi repositor
 ### Perakitan Komponen Elektrik.
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZS_tYgJ5Zf2Qt3a4OhwITDC7r537yu5TLu7rNwpWl90KvieXpTn8lZy-cBgvApqx8DWuC0xpCLcTS_zH89i5ah7tMi1JxbF4U=s2560"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21193&authkey=%21ACc1jrffUW06fMo&width=660"
     alt="Skematik Rangkaian KiCAD"
     caption="PCB yang telah dirakit"
     >}}

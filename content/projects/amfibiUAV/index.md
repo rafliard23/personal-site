@@ -10,12 +10,12 @@ draft: false
 ---
 
 {{< figure
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbmyKk_mELv4ZU7ofOPwCAXlTDZU3x9ksKQtCFomo2psOlwmmkwSDbxpl6e722GNgvx5vJURoO0XyYWzMTqT72DILkwpNAtqH8=s1600"
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21132&authkey=%21AGtsPlaGnBxmCvo&width=660"
     >}}
 
 Penggunaan teknologi video pada wahana UAV pemantau memiliki dampak yang terasa bagi tim SAR, karena dengan bantuan data (rekaman) video, wahana pemantau memiliki data yang lebih banyak jika dibandingkan menyurvei lokasi secara langsung dengan menggunakan kendaraan besar seperti mobil atau helikopter. Pada project ini kami memanfaatkan teknologi computer vision yang dipadu dengan wahana UAV yang telah kami kembangkan dengan beberapa modifikasi agar wahana UAV dapat landing pada permukaan air serta modifikasi airframe.
 
-{{< button href="rafliard.xyz/projects/evaro/" target="_blank" >}} EVARO {{< /button >}}
+{{< button href="rafliard.net/projects/evaro/" target="_blank" >}} EVARO {{< /button >}}
 {{< article link="/projects/evaro/" >}}
 
 Project ini merupakan perwujudan lolos pendanaan dari aktivitas Program Kreaktivitas Mahasiswa (PKM) 2022 dengan satu tim berisikan empat anggota, pada tim ini, saya bertugas untuk mengimplementasikan Computer Vision pada komputer mini PC (Single board computer Raspberry Pi 3B) untuk mendeteksi korban dari input video kamera yang diletakkan menghadap ke arah bawah lambung pesawat.
@@ -41,8 +41,8 @@ Uji Horizontal:<iframe src="https://drive.google.com/file/d/1j09x9fVix6wY8g5hmPh
 Uji Vertikal:<iframe src="https://drive.google.com/file/d/1yDpbiVFlFkXGyZKOs61JnQa8b50IFTAy/preview" width="640" height="360" class="max-w-prose mb-20" allow="autoplay" allowfullscreen></iframe>
 
 Berikut ini adalah poster infografik dari hasil tim PKM kami:
-{{< drive
-    src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZPSCW3Vp5Q0WXsYo8z7Sj1L1R5ZVbgp9cVY64dJjJ9KHgWyr6ZNjUqhG8Cm8hlM7JNOH8fI1-KhLlhQfQiWkSnbMNV0yEOnJM=s1600"
+{{< figure
+    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21133&authkey=%21ANuatCDEuXAJQII&width=800&height=1131"
     alt="Poster PKM"
     caption="Poster PKM Infografik"
     >}}
