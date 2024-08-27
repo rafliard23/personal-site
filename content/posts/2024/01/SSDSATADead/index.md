@@ -4,7 +4,7 @@ date: 2024-01-08T18:34:07+07:00
 lastmod:
 tags: [Computer]
 categories: [Posts]
-slug: SSDSataDead
+slug: SSD_Sata_Dead
 draft: false
 ---
 {{< figure

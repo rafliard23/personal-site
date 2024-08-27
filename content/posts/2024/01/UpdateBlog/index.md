@@ -4,7 +4,7 @@ date: 2024-01-16T15:55:58+07:00
 lastmod:
 tags: []
 categories: [Posts]
-slug: 20240115_UpdateBlog
+slug: Update_Blog
 draft: false
 ---
 *Hello there!*
