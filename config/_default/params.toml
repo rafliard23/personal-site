@@ -10,7 +10,7 @@ enableCodeCopy = true
 paginate = 5
 
 mainSections = ["posts", "projects"]
-disableImageZoom = true
+disableImageZoom = false
 
 highlightCurrentMenuArea = true
 smartTOC = true
