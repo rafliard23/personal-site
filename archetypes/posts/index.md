@@ -7,5 +7,6 @@ categories: []
 slug:
 thumbnailLink: ""
 draft: true
+index: false
 ---
 
