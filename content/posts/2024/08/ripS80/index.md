@@ -14,7 +14,7 @@ index: false
 It's good while it lasted.
 {{< /lead >}}
 
-Well... mouse daily driver saya akhir nya rusak pada tanggal 04 Agustus kemarin, setelah melakukan proses pembongkaran (disassembly), saya menemukan bahwa keseluruhan komponen masih dalam komponen kecuali battery yang memiliki level tegangan yang mengkhawatirkan yakni sekitar ~2,5V (!). Kecurigaan saya dengan kondisi mouse ketika saya coba lagi untuk memasang ulang semua menjadi mouse akhirnya mouse bisa bekerja lagi namun hanya dalam waktu singkat saja. Akhirnya saya kemudian mencoba untuk mengecek dengan teliti kembali, yang akhirnya saya menemukan bahwa pada bagian switch power ada malfungsi pada mekanisme switch nya.
+Well... mouse daily driver saya akhir nya rusak pada tanggal 04 Agustus kemarin, setelah melakukan proses pembongkaran (disassembly), saya menemukan bahwa keseluruhan komponen masih dalam komponen kecuali battery yang memiliki level tegangan yang mengkhawatirkan yakni sekitar ~2,5V. (!). Kecurigaan saya dengan kondisi mouse ketika saya coba lagi untuk memasang ulang semua menjadi mouse akhirnya mouse bisa bekerja lagi namun hanya dalam waktu singkat saja. Akhirnya saya kemudian mencoba untuk mengecek dengan teliti kembali, yang akhirnya saya menemukan bahwa pada bagian switch power ada malfungsi pada mekanisme switch nya.
 
 {{< gallery >}}
   <img src="https://1drv.ms/i/s!AnSkAvS9diTVggfnVOOChyI8WOay?embed=1&width=1080&height=1920" class="grid-w25"/>
