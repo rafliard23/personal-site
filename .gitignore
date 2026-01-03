@@ -1,3 +1,10 @@
 # Hugo and Blowfish
 public/
 resources/
+
+# Misc
+bak/
+archived/
+
+*.ps1
+*.zip

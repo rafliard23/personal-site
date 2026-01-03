@@ -1,17 +1,17 @@
 # Global params
 # config/_default/languages.en.toml
 
-colorScheme = "fire"
+colorScheme = "github"
 defaultAppearance = "dark"
-# defaultBackgroundImage = "img/home-img.jpg"
 autoSwitchAppearance = true
+paginate = 8
+
 enableSearch = false
 enableCodeCopy = true
-paginate = 5
+enableStructuredBreadcrumbs = false
 
 mainSections = ["posts", "projects"]
 disableImageZoom = false
-
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
@@ -20,8 +20,7 @@ smartTOCHideUnfocusedChildren = false
 # secondaryLogo =  "logos/secondary-logos.png"
 
 [header]
-  layout = "fixed"
-
+  layout = "fixed-fill"
 
 [footer]
   showMenu = false
@@ -31,12 +30,12 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true
 
 [homepage]
-  layout = "custom"
+  layout = "page"
   homepageImage = "img/home-img.webp"
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 8
   showMoreLink = true
-  showMoreLinkDest = "/projects"
+  showMoreLinkDest = "/categories/posts"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false
@@ -83,3 +82,14 @@ smartTOCHideUnfocusedChildren = false
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
+
+[term]
+  showHero = false
+  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  groupByYear = false
+  cardView = false
+  cardViewScreenWidth = false

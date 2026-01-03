@@ -1,12 +1,11 @@
 ---
 title: 'About'
 date: 2023-08-14T00:12:46+07:00
+lastmod: 2026-01-03T00:12:46+07:00
 draft: false
 showAuthor: true
 ---
 
-Hello there, my name is Muhammad Rafli Ardiansyah and you can call me Rafli. I am Mechatronics Engineer graduated from Electronics Engineering Polytechnic Institue of Surabaya in 2023. From my degree I mostly interested with Electronics, Embedded System, and Mechanical Design.
+Hello there, you can address me as Rafli. I am Embedded System Developer. This site provides as my personal space and notes to document my idea, passion, opinion as well my personal interests.
 
-I have various interest with variety of topics including Motorsport, Automotive scene, Technology (Embedded System, Single Board Computer, General Computers hardwares), Retro Games (Although I mostly interested in console modding nowaday) and Learning.
-
-This site act as my personal notes as well as sharing my passion of my personal interest.
+While I mostly delve in Engineering and Practical Solution nowaday, formerly I used to do a lot game modding and gaming. As graduated Mechatronics Engineer, I have multiple interests including Electronics, Embedded system, fair share of Mechanical Design, Automotive, Motorsport, Personal Computers, and Learning.

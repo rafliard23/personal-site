@@ -3,10 +3,12 @@ title: "Laptop Cooler"
 date: 2023-01-28T12:40:11+07:00
 lastmod:
 tags: [Electrics, Mechanics, Analog System]
-categories: [Projects]
+categories: [Posts, Projects]
 slug: laptop_cooler
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1UogA-AM5PKEhE3lN3kbGRDNCq2IeIwsM"
+thumbnailLink: "https://media.rafliard.net/content/projects/laptopCooler/img-inv2.webp"
+summary: "Custom cooling solution for 13\" - 15.6\" Laptops utilizing 3D printed parts, PC case fans, and custom analog fan speed controller utilizing 555 timer."
 draft: false
+excludeFromSearch: true
 ---
 
 If we want to squeeze every drops of performance out of your laptop device, you will need to cool them. As proven by a lot of testing, better cooling can improve thermal performance (lessen chance of thermal throttling) and definitely will improve your laptop performance! Although on this case we need to reality check some stuff like our laptop internal cooling performance (e.g thermal paste age, heatsink design and such) and external factor not limited but including ambience thermal, how much of vent within your laptop case, how do you place your laptop when you using it. As much to discuss, we can categorise them as Internal and External factors that affect our laptop thermal performance.
@@ -25,14 +27,15 @@ For such external cooling device, I'd say two most eficient method is either usi
 
 As Jarrod's Tech video suggest that a simple laptop stand should be sufficient to provide airflow into a laptop
 
-{{< youtube tXvKiy65pwg >}}
+{{< youtubeLite id="tXvKiy65pwg" >}}
 
 ## Laptop Stand
 
 {{< figure
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21198&authkey=%21AI18LFi_8GxKXJY&width=500&height=500"
+    src="https://media.rafliard.net/content/projects/laptopCooler/laptopStand-mediatech.webp"
     alt="Laptop Stand Mediatech"
     caption="One of Laptop Stand model that sold in Indonesia"
+    class="grid-w60 xl:grid-w40"
     >}}
 
 Laptop Stand is one of those device that mostly used to "lift" your laptop to provide better viewing and ergonomic. Although some Laptop Stand may not work as (passive) cooling device due to some of them may block your laptop inlet vent.
@@ -40,9 +43,10 @@ Laptop Stand is one of those device that mostly used to "lift" your laptop to pr
 ## Laptop Cooler
 
 {{< figure
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21197&authkey=%21ALGvG8L68t20wDw&width=782&height=430"
+    src="https://media.rafliard.net/content/projects/laptopCooler/laptopCooler-notepal-x3.webp"
     alt="Laptop Cooler Coolermaster"
-    caption="Laptop Cooler Notepal X3 from Coolermaster"
+    caption="Notepal X3 from Coolermaster"
+    class="grid-w60 xl:grid-w40"
     >}}
 
 Laptop Cooler solely used to cool laptop and usually they're powered using USB Input (so you're going limited with 5V voltage or maybe some of them had boost converter though it will limit the current).
@@ -59,20 +63,22 @@ Electronics portion, I designed custom PCB to handle the speed control and accep
 
 ### Mechanical Design
 
-I designed the part as simple as it could but also to consider structural strength and practical side. The design should be printable with Ender 3 bed size and bigger. My parts printed using SUNLU PLA filament and as ofOctober 2023, the laptop stand part still strong and usable.
+I designed the part as simple as it could but also to consider structural strength and practical side. The design should be printable with Ender 3 bed size and bigger. My parts printed using SUNLU PLA filament and as of October 2023, the laptop stand part still strong and usable.
 
 {{< figure
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21191&authkey=%21ABbL6n-0wSKf_xs&width=660"
+    src="https://media.rafliard.net/content/projects/laptopCooler/img-inv3.webp"
     alt="Desain Laptop Stand DIY"
     caption="Laptop Stand Design"
+    class="grid-w70 xl:grid-w50"
     >}}
 
 To mount fans, we need to add some part using acrylic 2mm/3mm to mount them into Stand part.
 
 {{< figure
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21192&authkey=%21AK7q7swvAFiVNbY&width=660"
+    src="https://media.rafliard.net/content/projects/laptopCooler/img-inv2.webp"
     alt="Fan Bracket Fitting"
     caption="Laptop Stand design fitted with 2x120mm Fans"
+    class="grid-w70 xl:grid-w50"
     >}}
 
 ### Electrics Design
@@ -80,20 +86,29 @@ To mount fans, we need to add some part using acrylic 2mm/3mm to mount them into
 Since I rely on "simple" control and doesn't need fancy microcontroller, I resorted to 555 Timer with good ol' NE555 IC. As we can power them with 12VDC, we don't need DC-DC converter and we can just power it using 12VDC input from barrel jack input. As 3PIN Fan design doesn't have any mean of speed control, we have to control them via V_OUT voltage level control by sending V_OUT in form of PWM output. This PWM Output will regulate voltage output based on our input using Potentiometer of our 555 System. For MOSFET part, I decided to use generic NPN IRFZ44N mosfet as it does the job very well and doesn't seem to overloaded from the task.
 
 {{< figure
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21196&authkey=%21ADf9SHlzKGxkZrs&width=660"
+    src="https://media.rafliard.net/content/projects/laptopCooler/img-kicad-sch1.webp"
     alt="Skematik Rangkaian KiCAD"
     caption="Fan Speed Control Schematics"
+    class="grid-w70 xl:grid-w50"
     >}}
 
 {{< figure
-    src="https://onedrive.live.com/embed?resid=D52476BDF402A474%21195&authkey=%21ALo5AHwPnk9w4y0&width=660"
+    src="https://media.rafliard.net/content/projects/laptopCooler/img-kicad-pcb1.webp"
     alt="Layout Trace PCB"
     caption="PCB Layout of Speed Controller"
+    class="grid-w70 xl:grid-w50"
     >}}
 
 You can visit my github repository for more information about the PCB, I made it using KiCAD 6:
 
-{{< github repo="rafliard23/laptopCooler-hardware" >}}
+{{< github repo="rafliard23/laptopCooler-hardware" showThumbnail=false >}}
+
+{{< figure
+    src="https://media.rafliard.net/content/projects/laptopCooler/img-board1.webp"
+    alt="Assembled PCB"
+    caption="Assembled PCB"
+    class="grid-w70 xl:grid-w50"
+    >}}
 
 ### Test Usage
 
@@ -103,9 +118,8 @@ To measure internal temperature, I relies HWiNFO to monitor CPU, and GPU core te
 
 ## Summary
 
-Laptop Stand or Cooler is one of the method that you can use to extracts more power out of your system. Though we need to take note other factor in whole system as adding a cooler wouldn't bring your system to cool as much if your laptop fan is clogged by dust or your thermal paste is dried out. Periodical maintenance also helps your laptop temperature and definitely laptop longetivity.
+Laptop Stand or Cooler is one of the method that you can use to extracts more power out of your system. Though we need to take note other factor in whole system as adding a cooler wouldn't bring your system to cool as much if your laptop fan clogged by dust or your thermal paste dried out. Periodical maintenance also helps your laptop temperature and definitely laptop longetivity.
 
-Reference(s):
-
-https://www.build-electronic-circuits.com/555-pwm-circuit/<br>
+Reference(s):  
+https://www.build-electronic-circuits.com/555-pwm-circuit/  
 https://www.electronics-tutorials.ws/waveforms/555_timer.html

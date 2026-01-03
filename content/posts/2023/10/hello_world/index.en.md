@@ -5,8 +5,9 @@ lastmod:
 tags: [Casual]
 categories: [Posts]
 slug: hello_World
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1G_cFZFc5MYx52V5Q9hdvhv3uu-tukyXE"
+thumbnailLink: "https://media.rafliard.net/content/posts/2023/10/10_helloWorld/hello-wrld.jpg"
 draft: false
+excludeFromSearch: true
 ---
 
 Hello👋

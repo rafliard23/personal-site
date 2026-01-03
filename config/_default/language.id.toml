@@ -2,7 +2,7 @@
 
 language = "id"
 languageName = "Indonesia"
-weight = 1
+weight = 2
 title = "Muhammad Rafli Ardiansyah"
 
 [params]
@@ -12,14 +12,13 @@ rtl = false
 dateFormat = "Monday, 2 January 2006, 15:04"
 description = "Situs pribadi yang dibuat dan dikelola oleh Muhammad Rafli Ardiansyah, sebagai penyaluran informasi dan penuangan ide"
 
-[author]
+[params.author]
 name = "Muhammad Rafli Ardiansyah"
 image = "img/author.webp"
-headline = ""
-bio = "Mechatronics Engineer"
+headline = "Embedded System Developer"
+bio = "Embedded System Developer"
 links = [
     { email = "mailto:contact@rafliard.net" },
     { github = "https://github.com/rafliard23" },
-    { grabcad = "https://grabcad.com/muhammad.rafli.ardiansyah-1" },
-    { instagram = "https://instagram.com/rafli.ard23" }
+    { grabcad = "https://grabcad.com/muhammad.rafli.ardiansyah-1" }
 ]

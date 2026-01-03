@@ -2,7 +2,7 @@
 
 [[main]]
   name = "Post"
-  pageRef = "/posts"
+  pageRef = "/categories/posts"
   weight = 1
 
 [[main]]
