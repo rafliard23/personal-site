@@ -5,7 +5,7 @@ lastmod:
 tags: [Mechanics, Electrics, Embedded System]
 categories: [Posts, Projects]
 slug: macropad_rfr16e
-thumbnailLink: "https://media.rafliard.net/content/projects/macropad_rfr16e/featured.webp"
+featureimage: "https://media.rafliard.net/content/projects/macropad_rfr16e/featured.webp"
 summary: "Do-it-yourself Macropad dengan 3D Printing, Fabrikasi PCB manual, serta STM32 \"Blackpill\". Customizable layout macropad dengan menggunakan QMK"
 draft: false
 excludeFromSearch: true

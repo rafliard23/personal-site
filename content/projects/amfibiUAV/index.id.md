@@ -5,7 +5,7 @@ lastmod:
 tags: [Computer Vision]
 categories: [Posts, Projects]
 slug:
-thumbnailLink: "https://media.rafliard.net/content/projects/amfibiUAV/amfibiUAV_waterShoot.webp"
+featureimage: "https://media.rafliard.net/content/projects/amfibiUAV/amfibiUAV_waterShoot.webp"
 summary: "Peningkatan teknologi UAV EVARO dengan menggabungkan Computer Vision dan bentuk pesawat untuk memungkinkan prototip surveillance disaster UAV."
 draft: false
 excludeFromSearch: true

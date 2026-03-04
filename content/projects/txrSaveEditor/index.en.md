@@ -5,7 +5,7 @@ lastmod: 2025-11-26T20:10:12+07:00
 tags: [Software, Game Modding]
 categories: [Posts, Projects]
 slug:
-thumbnailLink: "https://raw.githubusercontent.com/rafliard23/txr-use-py/refs/heads/main/img/txr_use-vehicle_upgrades.png"
+featureimage: "https://raw.githubusercontent.com/rafliard23/txr-use-py/refs/heads/main/img/txr_use-vehicle_upgrades.png"
 summary: "Simple GUI Save Editor for Tokyo Xtreme Racer (2025) using uesave-cli and Python"
 draft: false
 excludeFromSearch: false

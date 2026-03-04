@@ -5,7 +5,7 @@ lastmod:
 tags: []
 categories: []
 slug:
-thumbnailLink: "https://upload.wikimedia.org/wikipedia/commons/7/7a/RTFM_%2812034282963%29.jpg"
+featureimage: "https://upload.wikimedia.org/wikipedia/commons/7/7a/RTFM_%2812034282963%29.jpg"
 draft: false
 excludeFromSearch: false
 summary: "Membaca manual book, datasheet, ataupun petunjuk merupakan hal _biasa_ bagi segelintir orang, namun efeknya begitu besar jika dibiasakan terutama bagi kita yang dari latar belakang engineer, teknik, atau akademisi. Mengetahui petunjuk pengunaan alat atau mengidentifikasi komponen yang kita gunakan adalah separuh tanggungan yang perlu kita penuhi agar pekerjaan yang kita lakukan bisa beres, sisanya adalah usaha yang kita lakukan dalam mencapai target atau tujuan penggunaan alat/komponen yang kita pilih.."

@@ -5,8 +5,10 @@ lastmod:
 tags: []
 categories: []
 slug:
-thumbnailLink: ""
+featureimage: ""
 summary: ""
 draft: true
+index: false
+excludeFromSearch: true
 ---
 

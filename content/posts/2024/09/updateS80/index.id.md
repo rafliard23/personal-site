@@ -5,7 +5,7 @@ lastmod:
 tags: [Casual, Computer]
 categories: [Posts]
 slug: repair_s80
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/09/13_updateS80/repS80-fixed.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/09/13_updateS80/repS80-fixed.webp"
 summary: "Yup, power switch rusak, solusi nya adalah memperbaiki jalur power mouse; Akhirnya mouse kembali berfungsi!"
 draft: false
 excludeFromSearch: true

@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics, Mechanics, Analog System]
 categories: [Posts, Projects]
 slug: laptop_cooler
-thumbnailLink: "https://media.rafliard.net/content/projects/laptopCooler/img-inv2.webp"
+featureimage: "https://media.rafliard.net/content/projects/laptopCooler/img-inv2.webp"
 summary: "Pendinginan laptop dengan memanfaatkan part dari 3D print, kipas casing PC, dan kontroler analog berbasis timer 555"
 draft: false
 excludeFromSearch: true

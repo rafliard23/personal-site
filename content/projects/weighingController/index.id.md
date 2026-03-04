@@ -5,7 +5,7 @@ lastmod:
 tags: [Automation, Electrics, Embedded System]
 categories: [Posts, Projects]
 slug: PenakarTepungTulang
-thumbnailLink: "https://media.rafliard.net/content/projects/weighingController/awc_featured.webp"
+featureimage: "https://media.rafliard.net/content/projects/weighingController/awc_featured.webp"
 summary: "Mesin Penakar Tepung Tulang menggunakan ATMega328p dan Arduino"
 draft: false
 excludeFromSearch: true

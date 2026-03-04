@@ -5,7 +5,7 @@ lastmod: 2024-08-25T15:03:34+07:00
 tags: [Computer]
 categories: [Posts]
 slug: opini_mm712
-thumbnailLink: ""
+featureimage: ""
 draft: true
 excludeFromSearch: true
 ---

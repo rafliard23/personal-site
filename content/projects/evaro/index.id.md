@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics, Hardware]
 categories: [Posts, Projects]
 slug: evaro
-thumbnailLink: "https://media.rafliard.net/content/projects/evaro/evaro_thumb.webp"
+featureimage: "https://media.rafliard.net/content/projects/evaro/evaro_thumb.webp"
 summary: "Riset Airframe Design untuk kejuaraan Kontes Robot Terbang Indonesia (KRTI) tahun 2021 pada divisi Techno Development, subdivisi Airframe Innovation. Memanfaatkan VTOL 3-motor dan Tilt-rotor hybrid."
 draft: false
 excludeFromSearch: false

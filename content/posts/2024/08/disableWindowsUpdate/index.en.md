@@ -5,7 +5,7 @@ lastmod: 2025-12-16T09:23:43+07:00
 tags: [Casual]
 categories: [Posts]
 slug: tweakWindows
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/08/09_disableWindowsUpdate/blockWindowsUpdate.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/08/09_disableWindowsUpdate/blockWindowsUpdate.webp"
 draft: false
 excludeFromSearch: false
 summary: "Simple guide to enable/disable Windows Update as easy as run a program. Also include how to debloat windows by yourself!"

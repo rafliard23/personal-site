@@ -5,7 +5,7 @@ lastmod:
 tags: []
 categories: [Posts]
 slug: Update_Blog
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/01/16_UpdateBlog/UB_WatuJengger.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/01/16_UpdateBlog/UB_WatuJengger.webp"
 draft: false
 summary: "*Hello there!*, Perubahan kebijakan layanan Google Drive membuat Google Drive tidak bisa digunakan sebagai \"CDN\" lagi :/"
 excludeFromSearch: true

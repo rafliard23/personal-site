@@ -5,7 +5,7 @@ lastmod:
 tags: [Casual]
 categories: [Posts]
 slug: 20240525_Update
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/05/24_update/expert_day-expo.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/05/24_update/expert_day-expo.webp"
 draft: false
 excludeFromSearch: true
 ---

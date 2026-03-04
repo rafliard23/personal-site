@@ -5,7 +5,7 @@ lastmod:
 tags: [Casual]
 categories: [Posts]
 slug: hello_World
-thumbnailLink: "https://media.rafliard.net/content/posts/2023/10/10_helloWorld/hello-wrld.jpg"
+featureimage: "https://media.rafliard.net/content/posts/2023/10/10_helloWorld/hello-wrld.jpg"
 draft: false
 excludeFromSearch: true
 ---

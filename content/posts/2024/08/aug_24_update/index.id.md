@@ -5,7 +5,7 @@ lastmod:
 tags: [Memoir]
 categories: [Posts]
 slug:
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/08/24_update/aug_24-krw_team.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/08/24_update/aug_24-krw_team.webp"
 draft: false
 excludeFromSearch: true
 ---

@@ -5,7 +5,7 @@ lastmod:
 tags: [Computer]
 categories: [Posts]
 slug: SSD_Sata_Dead
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/01/08_SSDSATADead/SSDSATA_Upgrade.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/01/08_SSDSATADead/SSDSATA_Upgrade.webp"
 draft: false
 summary: "Baru-baru ini saya memiliki rencana untuk merubah tipe penyimpanan laptop yang saat ini saya miliki untuk menjadi setup Full SSD (M.2 NVMe & SSD SATA). Naun SSD SATA sekarang lebih susah untuk dicari dengan kualitas komponen yang mumpuni misalkan kebutuhan DRAM untuk SSD SATA. Akhirnya saya memutuskan untuk mencari tahu referensi dahulu..."
 excludeFromSearch: true

@@ -5,7 +5,7 @@ lastmod:
 tags: [Info]
 categories: [Posts]
 slug:
-thumbnailLink: "https://media.rafliard.net/content/posts/2025/12/Onward/ow_2026.webp"
+featureimage: "https://media.rafliard.net/content/posts/2025/12/Onward/ow_2026.webp"
 draft: false
 excludeFromSearch: true
 ---

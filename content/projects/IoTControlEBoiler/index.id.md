@@ -5,7 +5,7 @@ lastmod:
 tags: [Automation, Electrics, Mechanics, Embedded Systems]
 categories: [Posts, Projects]
 slug: e_boiler
-thumbnailLink: "https://media.rafliard.net/content/projects/eBoiler/IoTBoiler-plant.webp"
+featureimage: "https://media.rafliard.net/content/projects/eBoiler/IoTBoiler-plant.webp"
 summary: "Boiler Elektronik yang dilengkapi kontrol, monitoring data secara Online dan Offline. Rangkaian elektronik terpadu antara arus lemah dan kuat."
 draft: false
 excludeFromSearch: true

@@ -5,7 +5,7 @@ lastmod:
 tags: [Casual, Computer]
 categories: [Posts]
 slug: rip_s80
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/08/05_rip_s80/rip_s80-thumb.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/08/05_rip_s80/rip_s80-thumb.webp"
 summary: "Akhirnya, mouse saya menyerah dan telusur ternyata ada kerusakan di bagian power switch, namun baterai juga cukup berbahaya karena yang sudah tidak _fit_"
 draft: false
 excludeFromSearch: true

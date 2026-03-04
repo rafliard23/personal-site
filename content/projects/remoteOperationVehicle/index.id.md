@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics, Hardware, Embedded Systems]
 categories: [Posts, Projects]
 slug: rfr_RC
-thumbnailLink: "https://media.rafliard.net/content/projects/remoteOperationVehicle/remoteOp-featured.webp"
+featureimage: "https://media.rafliard.net/content/projects/remoteOperationVehicle/remoteOp-featured.webp"
 summary: "Desain Perangkat Custom dengan memanfaatkan jalur CAN bus dan Controller STM32"
 draft: false
 excludeFromSearch: true

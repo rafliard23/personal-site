@@ -5,7 +5,7 @@ lastmod:
 tags: [Mechanics, Electrics, Embedded System]
 categories: [Posts, Projects]
 slug: macropad_rfr16e
-thumbnailLink: "https://media.rafliard.net/content/projects/macropad_rfr16e/featured.webp"
+featureimage: "https://media.rafliard.net/content/projects/macropad_rfr16e/featured.webp"
 summary: "Do-it-yourself Macropad utilizing 3D Printing, manual PCB fabrication, STM32 \"Blackpill\" as controller. Powered with QMK"
 draft: false
 excludeFromSearch: true

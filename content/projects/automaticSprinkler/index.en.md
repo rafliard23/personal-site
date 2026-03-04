@@ -5,7 +5,7 @@ lastmod:
 tags: [Automation, Electrics, Embedded Systems]
 categories: [Posts, Projects]
 slug: automatic_sprinkler
-thumbnailLink: "https://media.rafliard.net/content/projects/automaticSprinkler/ASS-testing.webp"
+featureimage: "https://media.rafliard.net/content/projects/automaticSprinkler/ASS-testing.webp"
 summary: "Automated plant watering system utilizing controller, and Input/Outputs. Spraying determined by sensor input or set timer."
 draft: false
 excludeFromSearch: false

@@ -5,7 +5,7 @@ lastmod:
 tags: [Automation, Electrics, Mechanics, Embedded Systems]
 categories: [Posts, Projects]
 slug: e_boiler
-thumbnailLink: "https://media.rafliard.net/content/projects/eBoiler/IoTBoiler-plant.webp"
+featureimage: "https://media.rafliard.net/content/projects/eBoiler/IoTBoiler-plant.webp"
 summary: "Project based of very old client request. Electronic Boiler prototype equipped with Online and Offline control alongside data monitoring."
 draft: false
 excludeFromSearch: true

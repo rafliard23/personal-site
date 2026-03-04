@@ -5,7 +5,7 @@ lastmod:
 tags: [Automation, Electrics, Embedded Systems]
 categories: [Posts, Projects]
 slug: automatic_sprinkler
-thumbnailLink: "https://drive.google.com/uc?export=view&id=1SdpEiI7gp73A63zyIJS_6mGndv-BA7vj"
+featureimage: "https://drive.google.com/uc?export=view&id=1SdpEiI7gp73A63zyIJS_6mGndv-BA7vj"
 summary: "Proyek penyiraman tanaman otomatis dengan pilihan input sensor kelembapan tanah. Menggunakan kontroler STM32"
 draft: false
 excludeFromSearch: false

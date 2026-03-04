@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics]
 categories: [Posts, Projects]
 slug:
-thumbnailLink: "https://media.rafliard.net/content/projects/audioReceiver/ar-bts_asm_proto.webp"
+featureimage: "https://media.rafliard.net/content/projects/audioReceiver/ar-bts_asm_proto.webp"
 summary: "Project originated simply as idea during my time as undergrad student. Finally realized universal wired-to-wireless audio utilizing off-the-shelf Bluetooth receiver module, battery pack and charge controller. Rechargeable module and long-lasting!"
 draft: false
 excludeFromSearch: true

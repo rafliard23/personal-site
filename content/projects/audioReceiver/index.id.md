@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics]
 categories: [Posts, Projects]
 slug:
-thumbnailLink: "https://media.rafliard.net/content/projects/audioReceiver/ar-bts_asm_proto.webp"
+featureimage: "https://media.rafliard.net/content/projects/audioReceiver/ar-bts_asm_proto.webp"
 summary: "Berawal dari Ide untuk membuat Universal adapter wired-to-wireless, akhirnya tercapai dengan fitur recharge-able dan konektivitas Bluetooth"
 draft: false
 ---

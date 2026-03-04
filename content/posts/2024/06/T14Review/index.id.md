@@ -5,7 +5,7 @@ lastmod: 2025-12-25T16:10:23+07:00
 tags: [Review]
 categories: [Posts]
 slug: r_t14_amd
-thumbnailLink: "https://media.rafliard.net/content/posts/2024/06/06_T14_review/r_t14a-featured.webp"
+featureimage: "https://media.rafliard.net/content/posts/2024/06/06_T14_review/r_t14a-featured.webp"
 draft: false
 excludeFromSearch: true
 ---

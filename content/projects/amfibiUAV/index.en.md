@@ -5,7 +5,7 @@ lastmod:
 tags: [Computer Vision]
 categories: [Posts, Projects]
 slug:
-thumbnailLink: "https://media.rafliard.net/content/projects/amfibiUAV/amfibiUAV_waterShoot.webp"
+featureimage: "https://media.rafliard.net/content/projects/amfibiUAV/amfibiUAV_waterShoot.webp"
 summary: "This project was one of my effort for project funding a research for our UAV team. We modified our EVARO UAV for amphibious terrain and mini PC system to retrieve video feed during flight and _process_ for simple human detection."
 draft: false
 excludeFromSearch: true

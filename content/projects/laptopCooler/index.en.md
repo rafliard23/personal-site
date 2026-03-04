@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics, Mechanics, Analog System]
 categories: [Posts, Projects]
 slug: laptop_cooler
-thumbnailLink: "https://media.rafliard.net/content/projects/laptopCooler/img-inv2.webp"
+featureimage: "https://media.rafliard.net/content/projects/laptopCooler/img-inv2.webp"
 summary: "Custom cooling solution for 13\" - 15.6\" Laptops utilizing 3D printed parts, PC case fans, and custom analog fan speed controller utilizing 555 timer."
 draft: false
 excludeFromSearch: true

@@ -5,7 +5,7 @@ lastmod:
 tags: [Casual, Computer]
 categories: [Posts]
 slug: memilih_mouse
-thumbnailLink: "https://media.rafliard.net/content/posts/2023/11/14_PeriMouse/usbm_MouseRoundUp.webp"
+featureimage: "https://media.rafliard.net/content/posts/2023/11/14_PeriMouse/usbm_MouseRoundUp.webp"
 summary: "Cara memilih Mouse, melihat dari sisi Ergonomis, Konektivitas, dan Sensor berdasarkan pengalaman pribadi."
 draft: false
 excludeFromSearch: true

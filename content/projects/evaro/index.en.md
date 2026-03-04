@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics, Hardware]
 categories: [Posts, Projects]
 slug: evaro
-thumbnailLink: "https://media.rafliard.net/content/projects/evaro/evaro_thumb.webp"
+featureimage: "https://media.rafliard.net/content/projects/evaro/evaro_thumb.webp"
 summary: "1st place awardee for Airframe Innovation - Techno Development in National Aeronautical Robot Competition (Kontes Robot Terbang Indonesia; KRTI) 2021. 3-motor Tilt rotor hybrid VTOL."
 draft: false
 excludeFromSearch: false

@@ -5,7 +5,7 @@ lastmod:
 tags: [Electrics, Hardware]
 categories: [Posts, Projects]
 slug: "CNCPlasma"
-thumbnailLink: "https://media.rafliard.net/content/projects/3axisCNC/cncp_cncplasma_machine.webp"
+featureimage: "https://media.rafliard.net/content/projects/3axisCNC/cncp_cncplasma_machine.webp"
 summary: "Proyek ini merupakan salah satu proyek Kerja Praktik saya di CV. Karya Brawijaya. Kami merangkai sistem kontrol _Torch High Control_ (THC) pada mesin CNC Plasma berbasis Mach 3"
 draft: false
 excludeFromSearch: false

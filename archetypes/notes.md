@@ -3,9 +3,11 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod:
 tags: []
-thumbnailLink: ""
+featureimage: ""
 robots: "noindex"
 xml: false
 draft: true
+index: false
+excludeFromSearch: true
 ---
 
